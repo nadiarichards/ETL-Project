@@ -1,0 +1,1184 @@
+,year,movie_title,awards_wins,awards_nominations,Oscar_Best_Picture_won,Oscar_Best_Director_won,Oscar_Best_Actor_won,Oscar_Best_Actress_won,Oscar_Best_Supporting_Actor_won,Oscar_Best_Supporting_Actress_won,Oscar_Best_AdaScreen_won,Oscar_Best_OriScreen_won
+0,2001,Kate & Leopold,1,4,False,False,False,False,False,False,False,False
+1,2000,Chicken Run,5,11,False,False,False,False,False,False,False,False
+2,2005,Fantastic Four,0,0,False,False,False,False,False,False,False,False
+3,2002,Frida,2,12,False,False,False,False,False,False,False,False
+4,2001,The Lord of the Rings: The Fellowship of the Ring,26,67,False,False,False,False,False,False,False,False
+5,2000,Mission: Impossible II,1,2,False,False,False,False,False,False,False,False
+6,2002,Resident Evil,0,0,False,False,False,False,False,False,False,False
+7,2000,X-Men,0,3,False,False,False,False,False,False,False,False
+8,2000,The Emperor's New Groove,2,7,False,False,False,False,False,False,False,False
+9,2005,Corpse Bride,0,5,False,False,False,False,False,False,False,False
+10,2002,Star Wars: Episode II - Attack of the Clones,0,6,False,False,False,False,False,False,False,False
+11,2005,Star Wars: Episode III - Revenge of the Sith,2,7,False,False,False,False,False,False,False,False
+12,2001,Shrek,9,22,False,False,False,False,False,False,False,False
+13,2001,Planet of the Apes,0,5,False,False,False,False,False,False,False,False
+14,2002,Treasure Planet,0,1,False,False,False,False,False,False,False,False
+15,2000,Pitch Black,0,0,False,False,False,False,False,False,False,False
+16,2001,Training Day,2,7,False,False,True,False,False,False,False,False
+17,2000,U-571,0,0,False,False,False,False,False,False,False,False
+18,2000,American Psycho,0,3,False,False,False,False,False,False,False,False
+19,2002,Spider-Man,1,6,False,False,False,False,False,False,False,False
+20,2001,Lara Croft: Tomb Raider,0,0,False,False,False,False,False,False,False,False
+21,2000,High Fidelity,0,7,False,False,False,False,False,False,False,False
+22,2000,The Flintstones in Viva Rock Vegas,0,0,False,False,False,False,False,False,False,False
+23,2003,Cold Mountain,5,35,False,False,False,False,False,True,False,False
+24,2000,Charlie's Angels,0,1,False,False,False,False,False,False,False,False
+25,2001,Nowhere in Africa,0,1,False,False,False,False,False,False,False,False
+26,2000,Cast Away,6,15,False,False,False,False,False,False,False,False
+27,2001,Ghost World,4,21,False,False,False,False,False,False,False,False
+28,2001,Jurassic Park III,0,1,False,False,False,False,False,False,False,False
+29,2000,The Beach,0,0,False,False,False,False,False,False,False,False
+30,2000,Hollow Man,0,0,False,False,False,False,False,False,False,False
+31,2002,The Sum of All Fears,0,0,False,False,False,False,False,False,False,False
+32,2001,Along Came a Spider,0,0,False,False,False,False,False,False,False,False
+33,2000,Romeo Must Die,0,0,False,False,False,False,False,False,False,False
+34,2002,Spirit: Stallion of the Cimarron,0,4,False,False,False,False,False,False,False,False
+35,2001,Mulholland Drive,11,29,False,False,False,False,False,False,False,False
+36,2004,Hellboy,0,1,False,False,False,False,False,False,False,False
+37,2003,The Lord of the Rings: The Return of the King,48,72,True,True,False,False,False,False,True,False
+38,2002,The Lord of the Rings: The Two Towers,25,60,False,False,False,False,False,False,False,False
+39,2000,Dancer in the Dark,3,17,False,False,False,False,False,False,False,False
+40,2001,Lagaan: Once Upon a Time in India,0,0,False,False,False,False,False,False,False,False
+41,2000,How the Grinch Stole Christmas,2,9,False,False,False,False,False,False,False,False
+42,2003,Bad Boys II,0,0,False,False,False,False,False,False,False,False
+43,2000,Gladiator,18,51,True,False,True,False,False,False,False,False
+44,2000,Scary Movie,0,0,False,False,False,False,False,False,False,False
+45,2000,The Perfect Storm,1,7,False,False,False,False,False,False,False,False
+46,2000,Quills,3,23,False,False,False,False,False,False,False,False
+47,2000,Requiem for a Dream,9,28,False,False,False,False,False,False,False,False
+48,2002,Minority Report,4,26,False,False,False,False,False,False,False,False
+49,2003,Terminator 3: Rise of the Machines,0,0,False,False,False,False,False,False,False,False
+50,2000,Traffic,18,47,False,True,False,False,True,False,True,False
+51,2000,Almost Famous,22,55,False,False,False,False,False,False,False,True
+52,2000,Boiler Room,0,2,False,False,False,False,False,False,False,False
+53,2000,"Me, Myself & Irene",0,0,False,False,False,False,False,False,False,False
+54,2000,Pollock,1,2,False,False,False,False,False,True,False,False
+55,2001,A Knight's Tale,1,1,False,False,False,False,False,False,False,False
+56,2000,Wonder Boys,9,30,False,False,False,False,False,False,False,False
+57,2000,Battlefield Earth,0,0,False,False,False,False,False,False,False,False
+58,2000,Little Nicky,0,0,False,False,False,False,False,False,False,False
+59,2000,Frequency,0,2,False,False,False,False,False,False,False,False
+60,2000,Space Cowboys,0,0,False,False,False,False,False,False,False,False
+61,2000,Gone in Sixty Seconds,0,0,False,False,False,False,False,False,False,False
+62,2000,The Patriot,0,2,False,False,False,False,False,False,False,False
+63,2002,Blade II,0,0,False,False,False,False,False,False,False,False
+64,2000,Shadow of the Vampire,3,8,False,False,False,False,False,False,False,False
+65,2000,"Crouching Tiger, Hidden Dragon",28,66,False,False,False,False,False,False,False,False
+66,2000,"O Brother, Where Art Thou?",1,11,False,False,False,False,False,False,False,False
+67,2000,Vatel,0,0,False,False,False,False,False,False,False,False
+68,2000,Vertical Limit,0,1,False,False,False,False,False,False,False,False
+69,2000,The Replacements,0,0,False,False,False,False,False,False,False,False
+70,2000,Erin Brockovich,13,38,False,False,False,True,False,False,False,False
+71,2000,Final Destination,0,0,False,False,False,False,False,False,False,False
+72,2001,Zoolander,0,0,False,False,False,False,False,False,False,False
+73,2000,Where the Heart Is,0,0,False,False,False,False,False,False,False,False
+74,2001,"Monsters, Inc.",1,8,False,False,False,False,False,False,False,False
+75,2000,Love & Basketball,0,0,False,False,False,False,False,False,False,False
+76,2000,Coyote Ugly,0,0,False,False,False,False,False,False,False,False
+77,2001,Moulin Rouge!,24,62,False,False,False,False,False,False,False,False
+78,2000,Men of Honor,0,0,False,False,False,False,False,False,False,False
+79,2000,Sexy Beast,3,9,False,False,False,False,False,False,False,False
+80,2000,You Can Count on Me,5,16,False,False,False,False,False,False,False,False
+81,2000,The Watcher,0,0,False,False,False,False,False,False,False,False
+82,2000,Bring It On,0,0,False,False,False,False,False,False,False,False
+83,2006,Children of Men,13,31,False,False,False,False,False,False,False,False
+84,2000,What Women Want,0,1,False,False,False,False,False,False,False,False
+85,2000,Snatch,0,0,False,False,False,False,False,False,False,False
+86,2000,The Contender,0,6,False,False,False,False,False,False,False,False
+87,2000,Everybody's Famous!,0,0,False,False,False,False,False,False,False,False
+88,2002,Ken Park,0,0,False,False,False,False,False,False,False,False
+89,2000,Memento,10,26,False,False,False,False,False,False,False,False
+90,2001,The Mummy Returns,0,0,False,False,False,False,False,False,False,False
+91,2001,"Wedding Planner - verliebt, verlobt, verplant",0,0,False,False,False,False,False,False,False,False
+92,2000,The Cell,2,5,False,False,False,False,False,False,False,False
+93,2000,Remember the Titans,0,0,False,False,False,False,False,False,False,False
+94,2000,102 Dalmatians,0,0,False,False,False,False,False,False,False,False
+95,2001,Jason X,0,0,False,False,False,False,False,False,False,False
+96,2001,AmЋlie,7,20,False,False,False,False,False,False,False,False
+97,2000,Meet the Parents,1,2,False,False,False,False,False,False,False,False
+98,2000,Miss Congeniality,0,2,False,False,False,False,False,False,False,False
+99,2001,A.I. Artificial Intelligence,2,22,False,False,False,False,False,False,False,False
+100,2001,Hannibal,0,0,False,False,False,False,False,False,False,False
+101,2001,Pearl Harbor,0,7,False,False,False,False,False,False,False,False
+102,2000,MalЏna,0,4,False,False,False,False,False,False,False,False
+103,2000,Road Trip,0,0,False,False,False,False,False,False,False,False
+104,2001,Enemy at the Gates,0,0,False,False,False,False,False,False,False,False
+105,2000,The Taste of Others,0,0,False,False,False,False,False,False,False,False
+106,2002,Gangs of New York,13,51,False,False,False,False,False,False,False,False
+107,2000,Unbreakable,0,2,False,False,False,False,False,False,False,False
+108,2001,Original Sin,0,0,False,False,False,False,False,False,False,False
+109,2000,The Family Man,0,0,False,False,False,False,False,False,False,False
+110,2000,The Gift,0,0,False,False,False,False,False,False,False,False
+111,2001,Blow,0,1,False,False,False,False,False,False,False,False
+112,2001,Atlantis: The Lost Empire,0,4,False,False,False,False,False,False,False,False
+113,2000,Bedazzled,0,0,False,False,False,False,False,False,False,False
+114,2001,The Others,2,13,False,False,False,False,False,False,False,False
+115,2001,The Fast and the Furious,1,1,False,False,False,False,False,False,False,False
+116,2003,The Matrix Reloaded,0,2,False,False,False,False,False,False,False,False
+117,2000,Divided We Fall,0,0,False,False,False,False,False,False,False,False
+118,2002,Equilibrium,0,0,False,False,False,False,False,False,False,False
+119,2005,Water,0,1,False,False,False,False,False,False,False,False
+120,2001,Ocean's Eleven,0,6,False,False,False,False,False,False,False,False
+121,2001,Serendipity,0,0,False,False,False,False,False,False,False,False
+122,2000,Chocolat,2,20,False,False,False,False,False,False,False,False
+123,2001,Harry Potter and the Sorcerer's Stone,2,25,False,False,False,False,False,False,False,False
+124,2001,Bully,0,0,False,False,False,False,False,False,False,False
+125,2001,The Affair of the Necklace,0,0,False,False,False,False,False,False,False,False
+126,2003,The Matrix Revolutions,0,1,False,False,False,False,False,False,False,False
+127,2001,The Man Who Wasn't There,9,22,False,False,False,False,False,False,False,False
+128,2001,Bridget Jones's Diary,1,10,False,False,False,False,False,False,False,False
+129,2001,Wet Hot American Summer,0,0,False,False,False,False,False,False,False,False
+130,2001,Zus & zo,0,0,False,False,False,False,False,False,False,False
+131,2001,Spirited Away,5,11,False,False,False,False,False,False,False,False
+132,2001,Y Tu Mam‡ TambiЋn,7,11,False,False,False,False,False,False,False,False
+133,2001,Thir13en Ghosts,0,0,False,False,False,False,False,False,False,False
+134,2000,Amores Perros,3,9,False,False,False,False,False,False,False,False
+135,2002,The Count of Monte Cristo,0,0,False,False,False,False,False,False,False,False
+136,2002,Die Another Day,0,2,False,False,False,False,False,False,False,False
+137,2001,Donnie Darko,0,2,False,False,False,False,False,False,False,False
+138,2000,Before Night Falls,0,5,False,False,False,False,False,False,False,False
+139,2001,In the Bedroom,12,34,False,False,False,False,False,False,False,False
+140,2001,The Princess Diaries,0,1,False,False,False,False,False,False,False,False
+141,2001,Super Troopers,0,0,False,False,False,False,False,False,False,False
+142,2001,Ali,0,6,False,False,False,False,False,False,False,False
+143,2000,Billy Elliot,12,42,False,False,False,False,False,False,False,False
+144,2001,Legally Blonde,0,3,False,False,False,False,False,False,False,False
+145,2002,Unfaithful,1,7,False,False,False,False,False,False,False,False
+146,2003,How to Lose a Guy in 10 Days,0,0,False,False,False,False,False,False,False,False
+147,2003,House of 1000 Corpses,0,0,False,False,False,False,False,False,False,False
+148,2002,Maid in Manhattan,0,0,False,False,False,False,False,False,False,False
+149,2001,American Pie 2,1,1,False,False,False,False,False,False,False,False
+150,2002,The Pianist,6,19,False,True,True,False,False,False,True,False
+151,2002,Reign of Fire,0,0,False,False,False,False,False,False,False,False
+152,2002,Star Trek: Nemesis,0,0,False,False,False,False,False,False,False,False
+153,2001,Shallow Hal,0,0,False,False,False,False,False,False,False,False
+154,2002,Sweet Home Alabama,0,0,False,False,False,False,False,False,False,False
+155,2002,Road to Perdition,3,24,False,False,False,False,False,False,False,False
+156,2001,Scary Movie 2,0,0,False,False,False,False,False,False,False,False
+157,2002,About Schmidt,9,33,False,False,False,False,False,False,False,False
+158,2002,Panic Room,0,3,False,False,False,False,False,False,False,False
+159,2002,The Quiet American,2,4,False,False,False,False,False,False,False,False
+160,2002,The Bourne Identity,0,1,False,False,False,False,False,False,False,False
+161,2002,My Big Fat Greek Wedding,4,15,False,False,False,False,False,False,False,False
+162,2001,Vanilla Sky,2,7,False,False,False,False,False,False,False,False
+163,2001,Jay and Silent Bob Strike Back,0,0,False,False,False,False,False,False,False,False
+164,2001,Jeepers Creepers - Es ist angerichtet,0,0,False,False,False,False,False,False,False,False
+165,2002,Catch Me If You Can,6,16,False,False,False,False,False,False,False,False
+166,2001,Black Hawk Down,1,10,False,False,False,False,False,False,False,False
+167,2004,The Girl Next Door,0,0,False,False,False,False,False,False,False,False
+168,2002,The Rookie,0,1,False,False,False,False,False,False,False,False
+169,2001,The Royal Tenenbaums,3,16,False,False,False,False,False,False,False,False
+170,2003,Finding Nemo,6,21,False,False,False,False,False,False,False,False
+171,2003,Kill Bill: Vol. 1,2,30,False,False,False,False,False,False,False,False
+172,2001,Rush Hour 2,0,0,False,False,False,False,False,False,False,False
+173,2001,Spy Game - Der finale Countdown,0,0,False,False,False,False,False,False,False,False
+174,2002,Scooby-Doo,0,0,False,False,False,False,False,False,False,False
+175,2002,Adaptation.,14,45,False,False,False,False,True,False,False,False
+176,2002,Ice Age,0,4,False,False,False,False,False,False,False,False
+177,2001,Jimmy Neutron: Boy Genius,0,0,False,False,False,False,False,False,False,False
+178,2002,The Time Machine,0,0,False,False,False,False,False,False,False,False
+179,2001,A Beautiful Mind,15,31,True,True,False,False,False,True,True,False
+180,2002,The Hours,8,51,False,False,False,True,False,False,False,False
+181,2002,Secretary,3,5,False,False,False,False,False,False,False,False
+182,2002,Lilo & Stitch,0,6,False,False,False,False,False,False,False,False
+183,2002,About a Boy,3,12,False,False,False,False,False,False,False,False
+184,2001,I Am Sam,1,5,False,False,False,False,False,False,False,False
+185,2002,The Scorpion King,0,0,False,False,False,False,False,False,False,False
+186,2001,Not Another Teen Movie,0,0,False,False,False,False,False,False,False,False
+187,2002,We Were Soldiers,0,0,False,False,False,False,False,False,False,False
+188,2002,Insomnia,1,2,False,False,False,False,False,False,False,False
+189,2001,Elling,0,0,False,False,False,False,False,False,False,False
+190,2002,Mr. Deeds,0,0,False,False,False,False,False,False,False,False
+191,2001,Gosford Park,14,42,False,False,False,False,False,False,False,True
+192,2001,Iris,5,16,False,False,False,False,True,False,False,False
+193,2002,A Walk to Remember,0,0,False,False,False,False,False,False,False,False
+194,2002,The Wild Thornberrys Movie,0,3,False,False,False,False,False,False,False,False
+195,2002,Van Wilder: Party Liaison,0,0,False,False,False,False,False,False,False,False
+196,2001,No Man's Land,2,7,False,False,False,False,False,False,False,False
+197,2003,Dreamcatcher,0,0,False,False,False,False,False,False,False,False
+198,2001,Monster's Ball,1,6,False,False,False,True,False,False,False,False
+199,2002,Signs,0,3,False,False,False,False,False,False,False,False
+200,2003,The Triplets of Belleville,4,12,False,False,False,False,False,False,False,False
+201,2002,Bend It Like Beckham,1,5,False,False,False,False,False,False,False,False
+202,2003,Hulk,0,0,False,False,False,False,False,False,False,False
+203,2002,Talk to Her,4,13,False,False,False,False,False,False,False,True
+204,2003,Daredevil,0,0,False,False,False,False,False,False,False,False
+205,2003,Zelary,0,0,False,False,False,False,False,False,False,False
+206,2002,Red Dragon,1,1,False,False,False,False,False,False,False,False
+207,2004,The Butterfly Effect,0,0,False,False,False,False,False,False,False,False
+208,2003,X-Men 2,0,3,False,False,False,False,False,False,False,False
+209,2003,The Recruit,0,0,False,False,False,False,False,False,False,False
+210,2001,Son of the Bride,0,0,False,False,False,False,False,False,False,False
+211,2004,The Phantom of the Opera,1,13,False,False,False,False,False,False,False,False
+212,2002,The Transporter,0,0,False,False,False,False,False,False,False,False
+213,2005,Rent,0,6,False,False,False,False,False,False,False,False
+214,2002,Harry Potter and the Chamber of Secrets,4,13,False,False,False,False,False,False,False,False
+215,2003,Wrong Turn,0,0,False,False,False,False,False,False,False,False
+216,2002,xXx,0,0,False,False,False,False,False,False,False,False
+217,2004,The Chronicles of Riddick,0,0,False,False,False,False,False,False,False,False
+218,2002,Far from Heaven,22,49,False,False,False,False,False,False,False,False
+219,2002,The Ring,1,1,False,False,False,False,False,False,False,False
+220,2004,Shrek 2,7,17,False,False,False,False,False,False,False,False
+221,2002,8 Mile,3,5,False,False,False,False,False,False,False,False
+222,2002,Whale Rider,5,9,False,False,False,False,False,False,False,False
+223,2003,The Core,0,0,False,False,False,False,False,False,False,False
+224,2002,In America,1,21,False,False,False,False,False,False,False,False
+225,2002,Chicago,19,63,True,False,False,False,False,True,False,False
+226,2002,Hero,5,13,False,False,False,False,False,False,False,False
+227,2002,Blue Crush,0,0,False,False,False,False,False,False,False,False
+228,2002,Dirty Pretty Things,1,9,False,False,False,False,False,False,False,False
+229,2002,The Hot Chick,0,0,False,False,False,False,False,False,False,False
+230,2003,Old School,0,0,False,False,False,False,False,False,False,False
+231,2002,Cabin Fever,0,0,False,False,False,False,False,False,False,False
+232,2004,Harry Potter and the Prisoner of Azkaban,3,17,False,False,False,False,False,False,False,False
+233,2003,American Splendor,7,14,False,False,False,False,False,False,False,False
+234,2003,Anger Management,0,0,False,False,False,False,False,False,False,False
+235,2004,Shark Tale,0,1,False,False,False,False,False,False,False,False
+236,2004,Finding Neverland,3,39,False,False,False,False,False,False,False,False
+237,2003,Final Destination 2,0,0,False,False,False,False,False,False,False,False
+238,2003,Identity,0,0,False,False,False,False,False,False,False,False
+239,2003,A Mighty Wind,3,9,False,False,False,False,False,False,False,False
+240,2003,Master and Commander: The Far Side of the World,7,36,False,False,False,False,False,False,False,False
+241,2003,Holes,0,1,False,False,False,False,False,False,False,False
+242,2003,The League of Extraordinary Gentlemen,0,0,False,False,False,False,False,False,False,False
+243,2002,The Man Without a Past,0,2,False,False,False,False,False,False,False,False
+244,2003,Pieces of April,1,6,False,False,False,False,False,False,False,False
+245,2005,The Curse of the Were-Rabbit,7,14,False,False,False,False,False,False,False,False
+246,2003,The Cat in the Hat,0,0,False,False,False,False,False,False,False,False
+247,2002,El crimen del padre Amaro,0,1,False,False,False,False,False,False,False,False
+248,2003,Love Actually,4,14,False,False,False,False,False,False,False,False
+249,2003,Tears of the Sun,0,0,False,False,False,False,False,False,False,False
+250,2003,Bruce Almighty,1,1,False,False,False,False,False,False,False,False
+251,2003,21 Grams,2,23,False,False,False,False,False,False,False,False
+252,2003,House of Sand and Fog,5,14,False,False,False,False,False,False,False,False
+253,2003,Peter Pan,0,1,False,False,False,False,False,False,False,False
+254,2004,Spider-Man 2,3,14,False,False,False,False,False,False,False,False
+255,2004,Bridget Jones: The Edge of Reason,0,3,False,False,False,False,False,False,False,False
+256,2006,Cars,7,19,False,False,False,False,False,False,False,False
+257,2002,City of God,4,10,False,False,False,False,False,False,False,False
+258,2003,Daddy Day Care,0,0,False,False,False,False,False,False,False,False
+259,2004,The Incredibles,13,30,False,False,False,False,False,False,False,False
+260,2003,The Italian Job,0,0,False,False,False,False,False,False,False,False
+261,2006,Mission: Impossible III,0,0,False,False,False,False,False,False,False,False
+262,2003,The Cooler,0,9,False,False,False,False,False,False,False,False
+263,2004,The Motorcycle Diaries,3,19,False,False,False,False,False,False,False,False
+264,2004,Resident Evil: Apocalypse,0,0,False,False,False,False,False,False,False,False
+265,2003,Big Fish,0,21,False,False,False,False,False,False,False,False
+266,2004,The Day After Tomorrow,1,2,False,False,False,False,False,False,False,False
+267,2003,Elf,0,0,False,False,False,False,False,False,False,False
+268,2005,Kingdom of Heaven,1,1,False,False,False,False,False,False,False,False
+269,2003,Underworld,0,0,False,False,False,False,False,False,False,False
+270,2003,2 Fast 2 Furious,0,0,False,False,False,False,False,False,False,False
+271,2003,Freaky Friday,0,2,False,False,False,False,False,False,False,False
+272,2002,Twin Sisters,0,0,False,False,False,False,False,False,False,False
+273,2003,The Texas Chainsaw Massacre,0,0,False,False,False,False,False,False,False,False
+274,2003,The Last Samurai,0,16,False,False,False,False,False,False,False,False
+275,2003,Pirates of the Caribbean: The Curse of the Black Pearl,5,23,False,False,False,False,False,False,False,False
+276,2003,Mystic River,13,50,False,False,True,False,True,False,False,False
+277,2004,Around the World in 80 Days,0,0,False,False,False,False,False,False,False,False
+278,2009,Coraline,1,12,False,False,False,False,False,False,False,False
+279,2004,Man on Fire,0,1,False,False,False,False,False,False,False,False
+280,2003,Thirteen,0,11,False,False,False,False,False,False,False,False
+281,2003,Under the Tuscan Sun,0,2,False,False,False,False,False,False,False,False
+282,2003,Brother Bear,0,2,False,False,False,False,False,False,False,False
+283,2003,Freddy vs. Jason,0,0,False,False,False,False,False,False,False,False
+284,2003,Seabiscuit,0,12,False,False,False,False,False,False,False,False
+285,2005,xXx: State of the Union,0,0,False,False,False,False,False,False,False,False
+286,2005,Harry Potter and the Goblet of Fire,1,12,False,False,False,False,False,False,False,False
+287,2004,The Punisher,0,0,False,False,False,False,False,False,False,False
+288,2004,The Notebook,0,1,False,False,False,False,False,False,False,False
+289,2003,School of Rock,0,6,False,False,False,False,False,False,False,False
+290,2004,Troy,0,1,False,False,False,False,False,False,False,False
+291,2003,Girl with a Pearl Earring,0,20,False,False,False,False,False,False,False,False
+292,2003,Lost in Translation,17,50,False,False,False,False,False,False,False,True
+293,2004,The Passion of the Christ,3,5,False,False,False,False,False,False,False,False
+294,2003,Something's Gotta Give,1,5,False,False,False,False,False,False,False,False
+295,2007,Live Free or Die Hard,0,0,False,False,False,False,False,False,False,False
+296,2004,Eternal Sunshine of the Spotless Mind,14,49,False,False,False,False,False,False,False,True
+297,2003,The Barbarian Invasions,1,6,False,False,False,False,False,False,False,False
+298,2003,Evil,0,0,False,False,False,False,False,False,False,False
+299,2003,Paycheck,0,0,False,False,False,False,False,False,False,False
+300,2004,The Polar Express,0,7,False,False,False,False,False,False,False,False
+301,2004,Van Helsing,0,0,False,False,False,False,False,False,False,False
+302,2004,The Aviator,22,66,False,False,False,False,False,True,False,False
+303,2004,A Series of Unfortunate Events,5,10,False,False,False,False,False,False,False,False
+304,2004,Being Julia,2,7,False,False,False,False,False,False,False,False
+305,2003,Monster,4,10,False,False,False,True,False,False,False,False
+306,2004,50 First Dates,1,1,False,False,False,False,False,False,False,False
+307,2006,The Good Shepherd,1,3,False,False,False,False,False,False,False,False
+308,2004,"I, Robot",0,0,False,False,False,False,False,False,False,False
+309,2004,A Very Long Engagement,0,8,False,False,False,False,False,False,False,False
+310,2004,Alexander,0,0,False,False,False,False,False,False,False,False
+311,2004,Howl's Moving Castle,4,7,False,False,False,False,False,False,False,False
+312,2006,Superman Returns,0,3,False,False,False,False,False,False,False,False
+313,2005,Waiting...,0,0,False,False,False,False,False,False,False,False
+314,2003,Cheaper by the Dozen,0,0,False,False,False,False,False,False,False,False
+315,2004,King Arthur,1,1,False,False,False,False,False,False,False,False
+316,2004,Ocean's Twelve,1,3,False,False,False,False,False,False,False,False
+317,2004,Ray,12,26,False,False,True,False,False,False,False,False
+318,2005,Madagascar,0,4,False,False,False,False,False,False,False,False
+319,2002,The Twilight Samurai,0,0,False,False,False,False,False,False,False,False
+320,2004,Walking Tall,0,0,False,False,False,False,False,False,False,False
+321,2005,Cinderella Man,4,15,False,False,False,False,False,False,False,False
+322,2005,The Brothers Grimm,0,0,False,False,False,False,False,False,False,False
+323,2004,EuroTrip,0,0,False,False,False,False,False,False,False,False
+324,2004,A Cinderella Story,0,0,False,False,False,False,False,False,False,False
+325,2005,The Family Stone,1,4,False,False,False,False,False,False,False,False
+326,2005,Mr. & Mrs. Smith,0,2,False,False,False,False,False,False,False,False
+327,2004,Anchorman: The Legend of Ron Burgundy,0,1,False,False,False,False,False,False,False,False
+328,2005,Robots,0,2,False,False,False,False,False,False,False,False
+329,2005,Walk the Line,17,27,False,False,False,True,False,False,False,False
+330,2013,The Secret Life of Walter Mitty,0,1,False,False,False,False,False,False,False,False
+331,2005,Constantine,0,0,False,False,False,False,False,False,False,False
+332,2005,King Kong,7,27,False,False,False,False,False,False,False,False
+333,2009,Inglourious Basterds,26,64,False,False,False,False,True,False,False,False
+334,2004,The Terminal,2,2,False,False,False,False,False,False,False,False
+335,2004,Kinsey,1,21,False,False,False,False,False,False,False,False
+336,2004,The Life Aquatic with Steve Zissou,1,4,False,False,False,False,False,False,False,False
+337,2004,Downfall,4,6,False,False,False,False,False,False,False,False
+338,2004,Dawn of the Dead,0,3,False,False,False,False,False,False,False,False
+339,2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",5,16,False,False,False,False,False,False,False,False
+340,2004,Taking Lives,0,0,False,False,False,False,False,False,False,False
+341,2004,Dodgeball: A True Underdog Story,0,0,False,False,False,False,False,False,False,False
+342,2005,Syriana,3,13,False,False,False,False,True,False,False,False
+343,2006,Happy Feet,4,13,False,False,False,False,False,False,False,False
+344,2004,Harold & Kumar Go to White Castle,0,0,False,False,False,False,False,False,False,False
+345,2005,The Squid and the Whale,7,22,False,False,False,False,False,False,False,False
+346,2005,Charlie and the Chocolate Factory,3,17,False,False,False,False,False,False,False,False
+347,2008,Indiana Jones and the Kingdom of the Crystal Skull,0,9,False,False,False,False,False,False,False,False
+348,2003,The Room,0,0,False,False,False,False,False,False,False,False
+349,2004,The Village,0,2,False,False,False,False,False,False,False,False
+350,2007,I'm Not There.,2,13,False,False,False,False,False,False,False,False
+351,2004,National Treasure,0,0,False,False,False,False,False,False,False,False
+352,2004,Collateral,4,23,False,False,False,False,False,False,False,False
+353,2015,Jurassic World,1,12,False,False,False,False,False,False,False,False
+354,2004,The Sea Inside,2,5,False,False,False,False,False,False,False,False
+355,2004,AVP: Alien vs. Predator,0,0,False,False,False,False,False,False,False,False
+356,2004,Spanglish,0,2,False,False,False,False,False,False,False,False
+357,2005,The Hitchhiker's Guide to the Galaxy,0,1,False,False,False,False,False,False,False,False
+358,2008,Iron Man,1,13,False,False,False,False,False,False,False,False
+359,2004,The Bourne Supremacy,0,3,False,False,False,False,False,False,False,False
+360,2005,The Wedding Date,0,0,False,False,False,False,False,False,False,False
+361,2005,Batman Begins,1,14,False,False,False,False,False,False,False,False
+362,2004,The Chorus,0,5,False,False,False,False,False,False,False,False
+363,2005,Kiss Kiss Bang Bang,0,3,False,False,False,False,False,False,False,False
+364,2007,Harry Potter and the Order of the Phoenix,1,10,False,False,False,False,False,False,False,False
+365,2004,Napoleon Dynamite,0,3,False,False,False,False,False,False,False,False
+366,2004,Sideways,30,60,False,False,False,False,False,False,True,False
+367,2004,Crash,15,46,True,False,False,False,False,False,False,True
+368,2004,Closer,5,23,False,False,False,False,False,False,False,False
+369,2006,X-Men: The Last Stand,1,5,False,False,False,False,False,False,False,False
+370,2004,Mean Girls,0,5,False,False,False,False,False,False,False,False
+371,2005,The Ring Two,0,0,False,False,False,False,False,False,False,False
+372,2004,Kill Bill: Vol. 2,1,16,False,False,False,False,False,False,False,False
+373,2005,Capote,16,39,False,False,True,False,False,False,False,False
+374,2005,Serenity,1,2,False,False,False,False,False,False,False,False
+375,2009,The Lovely Bones,2,15,False,False,False,False,False,False,False,False
+376,2006,Casino Royale,3,15,False,False,False,False,False,False,False,False
+377,2004,Before Sunset,2,11,False,False,False,False,False,False,False,False
+378,2004,White Chicks,0,0,False,False,False,False,False,False,False,False
+379,2007,3:10 to Yuma,0,6,False,False,False,False,False,False,False,False
+380,2004,As It Is in Heaven,0,0,False,False,False,False,False,False,False,False
+381,2006,The Da Vinci Code,0,4,False,False,False,False,False,False,False,False
+382,2007,Ratatouille,11,22,False,False,False,False,False,False,False,False
+383,2006,Pirates of the Caribbean: Dead Man's Chest,7,21,False,False,False,False,False,False,False,False
+384,2004,Vera Drake,10,25,False,False,False,False,False,False,False,False
+385,2006,Accepted,0,0,False,False,False,False,False,False,False,False
+386,2005,The Amityville Horror,0,0,False,False,False,False,False,False,False,False
+387,2005,Green Street Hooligans,0,0,False,False,False,False,False,False,False,False
+388,2004,House of Flying Daggers,5,30,False,False,False,False,False,False,False,False
+389,2007,The Golden Compass,3,6,False,False,False,False,False,False,False,False
+390,2006,Monster House,1,7,False,False,False,False,False,False,False,False
+391,2005,Hitch,0,3,False,False,False,False,False,False,False,False
+392,2005,The Constant Gardener,8,35,False,False,False,False,False,True,False,False
+393,2004,Saw,0,0,False,False,False,False,False,False,False,False
+394,2006,Idiocracy,0,0,False,False,False,False,False,False,False,False
+395,2006,The Black Dahlia,1,1,False,False,False,False,False,False,False,False
+396,2005,Brokeback Mountain,39,77,False,True,False,False,False,False,True,False
+397,2007,Bee Movie,0,3,False,False,False,False,False,False,False,False
+398,2006,Click,1,1,False,False,False,False,False,False,False,False
+399,2004,Maria Full of Grace,6,14,False,False,False,False,False,False,False,False
+400,2004,Hotel Rwanda,0,18,False,False,False,False,False,False,False,False
+401,2005,The Devil's Rejects,0,0,False,False,False,False,False,False,False,False
+402,2005,The Pacifier,0,0,False,False,False,False,False,False,False,False
+403,2005,North Country,1,9,False,False,False,False,False,False,False,False
+404,2006,Perfume: The Story of a Murderer,0,1,False,False,False,False,False,False,False,False
+405,2005,Wedding Crashers,3,5,False,False,False,False,False,False,False,False
+406,2005,House of Wax,0,0,False,False,False,False,False,False,False,False
+407,2005,Memoirs of a Geisha,10,22,False,False,False,False,False,False,False,False
+408,2008,Bolt,0,6,False,False,False,False,False,False,False,False
+409,2005,The Longest Yard,0,3,False,False,False,False,False,False,False,False
+410,2010,Tangled,0,8,False,False,False,False,False,False,False,False
+411,2007,Bridge to Terabithia,0,2,False,False,False,False,False,False,False,False
+412,2005,A History of Violence,8,33,False,False,False,False,False,False,False,False
+413,2005,The Island,1,1,False,False,False,False,False,False,False,False
+414,2007,The Diving Bell and the Butterfly,10,34,False,False,False,False,False,False,False,False
+415,2006,A Good Year,0,1,False,False,False,False,False,False,False,False
+416,2012,John Carter,0,0,False,False,False,False,False,False,False,False
+417,2005,Sin City,8,12,False,False,False,False,False,False,False,False
+418,2006,Underworld: Evolution,0,0,False,False,False,False,False,False,False,False
+419,2005,The New World,0,9,False,False,False,False,False,False,False,False
+420,2005,The Sisterhood of the Traveling Pants,0,0,False,False,False,False,False,False,False,False
+421,2006,Little Children,3,21,False,False,False,False,False,False,False,False
+422,2006,The Lives of Others,5,13,False,False,False,False,False,False,False,False
+423,2004,Million Dollar Baby,9,32,True,True,False,True,True,False,False,False
+424,2005,Sky High,0,0,False,False,False,False,False,False,False,False
+425,2005,The 40-Year-Old Virgin,3,9,False,False,False,False,False,False,False,False
+426,2005,Zathura: A Space Adventure,1,1,False,False,False,False,False,False,False,False
+427,2005,Transamerica,2,10,False,False,False,False,False,False,False,False
+428,2005,War of the Worlds,2,6,False,False,False,False,False,False,False,False
+429,2006,The Departed,17,62,True,True,False,False,False,False,True,False
+430,2007,Sweeney Todd: The Demon Barber of Fleet Street,5,22,False,False,False,False,False,False,False,False
+431,2005,Munich,1,28,False,False,False,False,False,False,False,False
+432,2006,Poseidon,0,0,False,False,False,False,False,False,False,False
+433,2009,Watchmen,1,2,False,False,False,False,False,False,False,False
+434,2005,Hustle & Flow,2,10,False,False,False,False,False,False,False,False
+435,2006,The Lake House,1,1,False,False,False,False,False,False,False,False
+436,2008,Hellboy II: The Golden Army,0,4,False,False,False,False,False,False,False,False
+437,2005,Mrs Henderson Presents,1,18,False,False,False,False,False,False,False,False
+438,2007,Spider-Man 3,0,3,False,False,False,False,False,False,False,False
+439,2007,Elizabeth: The Golden Age,0,10,False,False,False,False,False,False,False,False
+440,2005,Pride & Prejudice,4,23,False,False,False,False,False,False,False,False
+441,2006,The Fountain,1,8,False,False,False,False,False,False,False,False
+442,2007,Mongol: The Rise of Genghis Khan,0,1,False,False,False,False,False,False,False,False
+443,2005,Match Point,0,7,False,False,False,False,False,False,False,False
+444,2006,300,0,6,False,False,False,False,False,False,False,False
+445,2009,Harry Potter and the Half-Blood Prince,0,9,False,False,False,False,False,False,False,False
+446,2007,Transformers,2,7,False,False,False,False,False,False,False,False
+447,2006,Flags of Our Fathers,1,6,False,False,False,False,False,False,False,False
+448,2005,Jarhead,4,5,False,False,False,False,False,False,False,False
+449,2005,Junebug,2,8,False,False,False,False,False,False,False,False
+450,2004,Yesterday,0,0,False,False,False,False,False,False,False,False
+451,2007,The Kite Runner,1,8,False,False,False,False,False,False,False,False
+452,2008,The Curious Case of Benjamin Button,14,64,False,False,False,False,False,False,False,False
+453,2006,Marie Antoinette,1,8,False,False,False,False,False,False,False,False
+454,2007,Surf's Up,0,2,False,False,False,False,False,False,False,False
+455,2005,Hard Candy,1,2,False,False,False,False,False,False,False,False
+456,2005,Joyeux Noel,0,2,False,False,False,False,False,False,False,False
+457,2007,Hot Fuzz,0,0,False,False,False,False,False,False,False,False
+458,2006,Lucky Number Slevin,0,0,False,False,False,False,False,False,False,False
+459,2005,Sophie Scholl: The Final Days,0,0,False,False,False,False,False,False,False,False
+460,2006,Alpha Dog,0,1,False,False,False,False,False,False,False,False
+461,2007,August Rush,0,2,False,False,False,False,False,False,False,False
+462,2006,Failure to Launch,0,1,False,False,False,False,False,False,False,False
+463,2007,Hairspray,5,21,False,False,False,False,False,False,False,False
+464,2010,The A-Team,0,0,False,False,False,False,False,False,False,False
+465,2005,Four Brothers,0,1,False,False,False,False,False,False,False,False
+466,2007,P.S. I Love You,0,0,False,False,False,False,False,False,False,False
+467,2007,Resident Evil: Extinction,0,0,False,False,False,False,False,False,False,False
+468,2009,Fantastic Mr. Fox,4,18,False,False,False,False,False,False,False,False
+469,2011,Real Steel,0,0,False,False,False,False,False,False,False,False
+470,2005,"Good Night, and Good Luck.",8,51,False,False,False,False,False,False,False,False
+471,2005,V for Vendetta,0,2,False,False,False,False,False,False,False,False
+472,2014,The Giver,0,2,False,False,False,False,False,False,False,False
+473,2010,Toy Story 3,15,35,False,False,False,False,False,False,False,False
+474,2006,The Queen,22,57,False,False,False,True,False,False,False,False
+475,2009,Terminator Salvation,0,0,False,False,False,False,False,False,False,False
+476,2007,The Bourne Ultimatum,7,18,False,False,False,False,False,False,False,False
+477,2008,Kung Fu Panda,0,10,False,False,False,False,False,False,False,False
+478,2006,Volver,1,21,False,False,False,False,False,False,False,False
+479,2007,Beowulf,0,2,False,False,False,False,False,False,False,False
+480,2012,Lincoln,19,74,False,False,True,False,False,False,False,False
+481,2005,Don't Tell,0,0,False,False,False,False,False,False,False,False
+482,2006,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,4,12,False,False,False,False,False,False,False,False
+483,2006,Dreamgirls,19,50,False,False,False,False,False,True,False,False
+484,2006,The Illusionist,1,3,False,False,False,False,False,False,False,False
+485,2007,The Assassination of Jesse James by the Coward Robert Ford,1,17,False,False,False,False,False,False,False,False
+486,2007,Zodiac,0,14,False,False,False,False,False,False,False,False
+487,2006,Days of Glory,0,1,False,False,False,False,False,False,False,False
+488,2005,Paradise Now,1,3,False,False,False,False,False,False,False,False
+489,2007,Across the Universe,1,2,False,False,False,False,False,False,False,False
+490,2010,Scott Pilgrim vs. the World,1,11,False,False,False,False,False,False,False,False
+491,2007,Sunshine,0,2,False,False,False,False,False,False,False,False
+492,2008,Hancock,0,1,False,False,False,False,False,False,False,False
+493,2011,Puss in Boots,0,5,False,False,False,False,False,False,False,False
+494,2006,Little Miss Sunshine,15,43,False,False,False,False,True,False,False,True
+495,2007,Pirates of the Caribbean: At World's End,2,9,False,False,False,False,False,False,False,False
+496,2006,Babel,7,50,False,False,False,False,False,False,False,False
+497,2007,La Vie en Rose,10,22,False,False,False,True,False,False,False,False
+498,2006,Blood Diamond,0,6,False,False,False,False,False,False,False,False
+499,2005,Hostel,0,0,False,False,False,False,False,False,False,False
+500,2008,Death Race,0,0,False,False,False,False,False,False,False,False
+501,2007,Gone Baby Gone,8,14,False,False,False,False,False,False,False,False
+502,2006,The Good German,0,2,False,False,False,False,False,False,False,False
+503,2006,Lady in the Water,0,0,False,False,False,False,False,False,False,False
+504,2006,Deja Vu,0,0,False,False,False,False,False,False,False,False
+505,2006,The Hills Have Eyes,0,0,False,False,False,False,False,False,False,False
+506,2006,Inside Man,0,0,False,False,False,False,False,False,False,False
+507,2012,Life of Pi,10,44,False,True,False,False,False,False,False,False
+508,2006,The Pursuit of Happyness,0,6,False,False,False,False,False,False,False,False
+509,2006,She's the Man,0,0,False,False,False,False,False,False,False,False
+510,2006,The Last King of Scotland,13,19,False,False,True,False,False,False,False,False
+511,2008,Australia,0,3,False,False,False,False,False,False,False,False
+512,2014,The Equalizer,0,1,False,False,False,False,False,False,False,False
+513,2006,John Tucker Must Die,0,0,False,False,False,False,False,False,False,False
+514,2006,Grandma's Boy,0,0,False,False,False,False,False,False,False,False
+515,2006,Pan's Labyrinth,17,36,False,False,False,False,False,False,False,False
+516,2006,After the Wedding,0,0,False,False,False,False,False,False,False,False
+517,2006,The Holiday,0,0,False,False,False,False,False,False,False,False
+518,2011,Captain America: The First Avenger,0,2,False,False,False,False,False,False,False,False
+519,2006,The Devil Wears Prada,3,22,False,False,False,False,False,False,False,False
+520,2009,X-Men Origins: Wolverine,0,1,False,False,False,False,False,False,False,False
+521,2006,The Fall,1,4,False,False,False,False,False,False,False,False
+522,2007,Enchanted,1,8,False,False,False,False,False,False,False,False
+523,2006,Black Snake Moan,0,0,False,False,False,False,False,False,False,False
+524,2007,Grindhouse,0,0,False,False,False,False,False,False,False,False
+525,2006,Step Up,0,0,False,False,False,False,False,False,False,False
+526,2006,The Fast and the Furious: Tokyo Drift,0,0,False,False,False,False,False,False,False,False
+527,2007,Michael Clayton,2,36,False,False,False,False,False,True,False,False
+528,2006,Notes on a Scandal,0,22,False,False,False,False,False,False,False,False
+529,2008,The Other Boleyn Girl,0,0,False,False,False,False,False,False,False,False
+530,2007,Juno,14,35,False,False,False,False,False,False,False,True
+531,2006,Half Nelson,3,15,False,False,False,False,False,False,False,False
+532,2005,Tsotsi,0,3,False,False,False,False,False,False,False,False
+533,2008,The Dark Knight,27,65,False,False,False,False,True,False,False,False
+534,2007,There Will Be Blood,28,63,False,False,True,False,False,False,False,False
+535,2015,Ex Machina,8,33,False,False,False,False,False,False,False,False
+536,2006,Apocalypto,0,5,False,False,False,False,False,False,False,False
+537,2007,Charlie Wilson's War,0,10,False,False,False,False,False,False,False,False
+538,2006,Penelope,0,0,False,False,False,False,False,False,False,False
+539,2011,The Mechanic,0,0,False,False,False,False,False,False,False,False
+540,2010,Prince of Persia: The Sands of Time,0,1,False,False,False,False,False,False,False,False
+541,2006,Curse of the Golden Flower,2,4,False,False,False,False,False,False,False,False
+542,2006,United 93,11,26,False,False,False,False,False,False,False,False
+543,2016,"Hail, Caesar!",0,6,False,False,False,False,False,False,False,False
+544,2006,Smokin' Aces,0,0,False,False,False,False,False,False,False,False
+545,2007,Norbit,0,0,False,False,False,False,False,False,False,False
+546,2010,Unstoppable,0,1,False,False,False,False,False,False,False,False
+547,2011,Extremely Loud & Incredibly Close,1,7,False,False,False,False,False,False,False,False
+548,2006,Night at the Museum,0,0,False,False,False,False,False,False,False,False
+549,2007,No Country for Old Men,34,60,True,True,False,False,True,False,True,False
+550,2007,In the Valley of Elah,0,2,False,False,False,False,False,False,False,False
+551,2011,The Tree of Life,24,36,False,False,False,False,False,False,False,False
+552,2007,Knocked Up,1,4,False,False,False,False,False,False,False,False
+553,2015,Ant-Man,0,4,False,False,False,False,False,False,False,False
+554,2006,Rocky Balboa,0,0,False,False,False,False,False,False,False,False
+555,2007,Nancy Drew,0,0,False,False,False,False,False,False,False,False
+556,2007,I Am Legend,0,2,False,False,False,False,False,False,False,False
+557,2013,The Croods,0,5,False,False,False,False,False,False,False,False
+558,2006,The Prestige,1,10,False,False,False,False,False,False,False,False
+559,2008,The Strangers,0,0,False,False,False,False,False,False,False,False
+560,2009,The Secret of Kells,0,0,False,False,False,False,False,False,False,False
+561,2006,Beerfest,0,0,False,False,False,False,False,False,False,False
+562,2007,Stardust,0,0,False,False,False,False,False,False,False,False
+563,2007,Disturbia,0,1,False,False,False,False,False,False,False,False
+564,2007,Fracture,0,0,False,False,False,False,False,False,False,False
+565,2007,12,0,0,False,False,False,False,False,False,False,False
+566,2007,Chapter 27,0,0,False,False,False,False,False,False,False,False
+567,2008,Jumper,0,0,False,False,False,False,False,False,False,False
+568,2006,Venus,0,9,False,False,False,False,False,False,False,False
+569,2016,Silence,0,8,False,False,False,False,False,False,False,False
+570,2006,Away from Her,10,14,False,False,False,False,False,False,False,False
+571,2008,Wanted,0,2,False,False,False,False,False,False,False,False
+572,2007,Ocean's Thirteen,1,2,False,False,False,False,False,False,False,False
+573,2008,Vicky Cristina Barcelona,5,18,False,False,False,False,False,True,False,False
+574,2006,Letters from Iwo Jima,4,12,False,False,False,False,False,False,False,False
+575,2009,Avatar,16,46,False,False,False,False,False,False,False,False
+576,2007,Aliens vs. Predator: Requiem,0,0,False,False,False,False,False,False,False,False
+577,2007,Beaufort,0,0,False,False,False,False,False,False,False,False
+578,2009,Friday the 13th,0,0,False,False,False,False,False,False,False,False
+579,2010,Love & Other Drugs,0,2,False,False,False,False,False,False,False,False
+580,2007,Into the Wild,1,25,False,False,False,False,False,False,False,False
+581,2007,Music and Lyrics,0,0,False,False,False,False,False,False,False,False
+582,2008,Body of Lies,0,1,False,False,False,False,False,False,False,False
+583,2007,American Gangster,1,14,False,False,False,False,False,False,False,False
+584,2008,The Baader Meinhof Complex,0,2,False,False,False,False,False,False,False,False
+585,2007,Eastern Promises,0,15,False,False,False,False,False,False,False,False
+586,2008,Fool's Gold,0,0,False,False,False,False,False,False,False,False
+587,2013,Man of Steel,0,4,False,False,False,False,False,False,False,False
+588,2010,The Illusionist,1,8,False,False,False,False,False,False,False,False
+589,2007,The Savages,1,6,False,False,False,False,False,False,False,False
+590,2011,Drive,11,44,False,False,False,False,False,False,False,False
+591,2009,The Princess and the Frog,1,10,False,False,False,False,False,False,False,False
+592,2008,In Bruges,5,17,False,False,False,False,False,False,False,False
+593,2010,The Wolfman,0,0,False,False,False,False,False,False,False,False
+594,2007,Atonement,8,55,False,False,False,False,False,False,False,False
+595,2014,The Boxtrolls,1,10,False,False,False,False,False,False,False,False
+596,2013,Dallas Buyers Club,15,26,False,False,True,False,True,False,False,False
+597,2009,The Messenger,0,10,False,False,False,False,False,False,False,False
+598,2012,Jack Reacher,0,0,False,False,False,False,False,False,False,False
+599,2007,Death at a Funeral,0,0,False,False,False,False,False,False,False,False
+600,2008,Mamma Mia!,1,12,False,False,False,False,False,False,False,False
+601,2009,Star Trek,3,22,False,False,False,False,False,False,False,False
+602,2008,Forgetting Sarah Marshall,0,4,False,False,False,False,False,False,False,False
+603,2008,The Incredible Hulk,0,0,False,False,False,False,False,False,False,False
+604,2010,Clash of the Titans,0,0,False,False,False,False,False,False,False,False
+605,2011,Thor,0,2,False,False,False,False,False,False,False,False
+606,2007,Lars and the Real Girl,0,5,False,False,False,False,False,False,False,False
+607,2009,Angels & Demons,0,1,False,False,False,False,False,False,False,False
+608,2007,Funny Games,0,0,False,False,False,False,False,False,False,False
+609,2007,Persepolis,2,10,False,False,False,False,False,False,False,False
+610,2009,Bright Star,1,6,False,False,False,False,False,False,False,False
+611,2015,The Danish Girl,6,25,False,False,False,False,False,True,False,False
+612,2007,The Counterfeiters,0,1,False,False,False,False,False,False,False,False
+613,2010,Percy Jackson & the Olympians: The Lightning Thief,0,0,False,False,False,False,False,False,False,False
+614,2008,Seven Pounds,0,0,False,False,False,False,False,False,False,False
+615,2013,The Book Thief,0,3,False,False,False,False,False,False,False,False
+616,2011,Conan the Barbarian,0,0,False,False,False,False,False,False,False,False
+617,2014,Interstellar,3,24,False,False,False,False,False,False,False,False
+618,2013,World War Z,0,3,False,False,False,False,False,False,False,False
+619,2010,Valentine's Day,0,1,False,False,False,False,False,False,False,False
+620,2007,Shooter,0,0,False,False,False,False,False,False,False,False
+621,2008,Changeling,0,20,False,False,False,False,False,False,False,False
+622,2009,The Last Station,0,5,False,False,False,False,False,False,False,False
+623,2007,Superbad,0,5,False,False,False,False,False,False,False,False
+624,2008,Quantum of Solace,0,8,False,False,False,False,False,False,False,False
+625,2014,Godzilla,0,0,False,False,False,False,False,False,False,False
+626,2008,"Definitely, Maybe",0,0,False,False,False,False,False,False,False,False
+627,2009,Underworld: Rise of the Lycans,0,0,False,False,False,False,False,False,False,False
+628,2008,Step Brothers,0,0,False,False,False,False,False,False,False,False
+629,2010,The Town,0,14,False,False,False,False,False,False,False,False
+630,2010,The Kids Are All Right,6,35,False,False,False,False,False,False,False,False
+631,2009,The Last House on the Left,0,0,False,False,False,False,False,False,False,False
+632,2012,The Avengers,2,16,False,False,False,False,False,False,False,False
+633,2008,The House Bunny,0,0,False,False,False,False,False,False,False,False
+634,2007,The Visitor,0,7,False,False,False,False,False,False,False,False
+635,2008,The Duchess,2,8,False,False,False,False,False,False,False,False
+636,2008,Frost/Nixon,0,37,False,False,False,False,False,False,False,False
+637,2009,Nine,1,23,False,False,False,False,False,False,False,False
+638,2009,The Blind Side,3,6,False,False,False,True,False,False,False,False
+639,2007,Katyn,0,1,False,False,False,False,False,False,False,False
+640,2007,The Mist,0,0,False,False,False,False,False,False,False,False
+641,2008,Burn After Reading,0,8,False,False,False,False,False,False,False,False
+642,2008,The Hurt Locker,36,65,True,True,False,False,False,False,False,True
+643,2010,The Switch,0,0,False,False,False,False,False,False,False,False
+644,2010,How to Train Your Dragon,1,12,False,False,False,False,False,False,False,False
+645,2009,The Road,0,7,False,False,False,False,False,False,False,False
+646,2009,Bride Wars,0,1,False,False,False,False,False,False,False,False
+647,2012,The Hobbit: An Unexpected Journey,1,15,False,False,False,False,False,False,False,False
+648,2007,Once,3,9,False,False,False,False,False,False,False,False
+649,2008,Pineapple Express,0,1,False,False,False,False,False,False,False,False
+650,2008,WALL·E,25,38,False,False,False,False,False,False,False,False
+651,2008,The Boy in the Striped Pajamas,0,1,False,False,False,False,False,False,False,False
+652,2010,Unthinkable,0,0,False,False,False,False,False,False,False,False
+653,2008,Doubt,3,35,False,False,False,False,False,False,False,False
+654,2010,Harry Potter and the Deathly Hallows: Part 1,0,9,False,False,False,False,False,False,False,False
+655,2009,Precious,14,37,False,False,False,False,False,True,True,False
+656,2010,Rabbit Hole,0,4,False,False,False,False,False,False,False,False
+657,2010,The Last Airbender,0,0,False,False,False,False,False,False,False,False
+658,2008,Tropic Thunder,3,14,False,False,False,False,False,False,False,False
+659,2010,Salt,0,1,False,False,False,False,False,False,False,False
+660,2011,Source Code,0,0,False,False,False,False,False,False,False,False
+661,2010,Black Swan,19,74,False,False,False,True,False,False,False,False
+662,2012,The Amazing Spider-Man,0,7,False,False,False,False,False,False,False,False
+663,2008,Paris 36,0,0,False,False,False,False,False,False,False,False
+664,2008,The Happening,0,0,False,False,False,False,False,False,False,False
+665,2010,Robin Hood,0,5,False,False,False,False,False,False,False,False
+666,2008,Revolutionary Road,2,20,False,False,False,False,False,False,False,False
+667,2008,You Don't Mess with the Zohan,0,0,False,False,False,False,False,False,False,False
+668,2009,The Young Victoria,4,8,False,False,False,False,False,False,False,False
+669,2008,"Angus, Thongs and Perfect Snogging",0,1,False,False,False,False,False,False,False,False
+670,2010,The Fighter,17,43,False,False,False,False,True,True,False,False
+671,2011,Hugo,10,59,False,False,False,False,False,False,False,False
+672,2008,The Day the Earth Stood Still,0,0,False,False,False,False,False,False,False,False
+673,2009,17 Again,0,1,False,False,False,False,False,False,False,False
+674,2012,Hitchcock,0,5,False,False,False,False,False,False,False,False
+675,2008,The Reader,7,22,False,False,False,True,False,False,False,False
+676,2008,Frozen River,1,7,False,False,False,False,False,False,False,False
+677,2011,Sucker Punch,0,0,False,False,False,False,False,False,False,False
+678,2011,The Adventures of Tintin,3,11,False,False,False,False,False,False,False,False
+679,2008,Valkyrie,0,0,False,False,False,False,False,False,False,False
+680,2009,Sherlock Holmes,2,4,False,False,False,False,False,False,False,False
+681,2011,Hanna,1,6,False,False,False,False,False,False,False,False
+682,2013,The Wolf of Wall Street,3,39,False,False,False,False,False,False,False,False
+683,2008,Sex and the City,0,3,False,False,False,False,False,False,False,False
+684,2009,He's Just Not That Into You,0,1,False,False,False,False,False,False,False,False
+685,2008,Zack and Miri Make a Porno,0,0,False,False,False,False,False,False,False,False
+686,2011,The Iron Lady,8,16,False,False,False,True,False,False,False,False
+687,2008,Slumdog Millionaire,33,64,True,True,False,False,False,False,True,False
+688,2009,Fast & Furious,0,0,False,False,False,False,False,False,False,False
+689,2008,Milk,18,55,False,False,True,False,False,False,False,True
+690,2010,Alice in Wonderland,6,21,False,False,False,False,False,False,False,False
+691,2015,Child 44,0,0,False,False,False,False,False,False,False,False
+692,2008,The Sisterhood of the Traveling Pants 2,0,0,False,False,False,False,False,False,False,False
+693,2009,A Serious Man,1,23,False,False,False,False,False,False,False,False
+694,2014,Selma,2,20,False,False,False,False,False,False,False,False
+695,2009,500 Days of Summer,2,17,False,False,False,False,False,False,False,False
+696,2008,Never Back Down,0,0,False,False,False,False,False,False,False,False
+697,2010,The Way Back,0,1,False,False,False,False,False,False,False,False
+698,2008,Il Divo,0,0,False,False,False,False,False,False,False,False
+699,2012,Argo,25,60,True,False,False,False,False,False,True,False
+700,2007,Death Proof,0,0,False,False,False,False,False,False,False,False
+701,2009,Hachi: A Dog's Tale,0,0,False,False,False,False,False,False,False,False
+702,2010,Secretariat,0,0,False,False,False,False,False,False,False,False
+703,2008,RocknRolla,0,0,False,False,False,False,False,False,False,False
+704,2011,The Descendants,10,48,False,False,False,False,False,False,True,False
+705,2008,Defiance,0,1,False,False,False,False,False,False,False,False
+706,2009,Coco Before Chanel,0,7,False,False,False,False,False,False,False,False
+707,2010,The Book of Eli,0,0,False,False,False,False,False,False,False,False
+708,2009,The Proposal,1,5,False,False,False,False,False,False,False,False
+709,2012,Silver Linings Playbook,17,44,False,False,False,True,False,False,False,False
+710,2008,Happy-Go-Lucky,8,22,False,False,False,False,False,False,False,False
+711,2009,G.I. Joe: The Rise of Cobra,0,0,False,False,False,False,False,False,False,False
+712,2009,Up,17,32,False,False,False,False,False,False,False,False
+713,2009,The Imaginarium of Doctor Parnassus,1,5,False,False,False,False,False,False,False,False
+714,2010,Life as We Know It,0,0,False,False,False,False,False,False,False,False
+715,2009,Transformers: Revenge of the Fallen,0,2,False,False,False,False,False,False,False,False
+716,2009,Invictus,0,11,False,False,False,False,False,False,False,False
+717,2008,Cloverfield,0,0,False,False,False,False,False,False,False,False
+718,2014,Boyhood,39,68,False,False,False,False,False,True,False,False
+719,2008,The Class,0,4,False,False,False,False,False,False,False,False
+720,2008,Departures,0,0,False,False,False,False,False,False,False,False
+721,2012,Skyfall,16,39,False,False,False,False,False,False,False,False
+722,2009,Ajami,0,0,False,False,False,False,False,False,False,False
+723,2012,Dark Shadows,0,1,False,False,False,False,False,False,False,False
+724,2009,My Sister's Keeper,0,0,False,False,False,False,False,False,False,False
+725,2008,Rachel Getting Married,4,20,False,False,False,False,False,False,False,False
+726,2013,Lone Survivor,3,4,False,False,False,False,False,False,False,False
+727,2009,Dragonball: Evolution,0,0,False,False,False,False,False,False,False,False
+728,2008,Twilight,3,4,False,False,False,False,False,False,False,False
+729,2014,Foxcatcher,1,19,False,False,False,False,False,False,False,False
+730,2010,TRON: Legacy,2,8,False,False,False,False,False,False,False,False
+731,2009,The Hangover,3,8,False,False,False,False,False,False,False,False
+732,2010,Blue Valentine,1,11,False,False,False,False,False,False,False,False
+733,2011,The Ides of March,1,10,False,False,False,False,False,False,False,False
+734,2008,The Wrestler,10,30,False,False,False,False,False,False,False,False
+735,2010,Burlesque,1,5,False,False,False,False,False,False,False,False
+736,2009,Drag Me to Hell,0,0,False,False,False,False,False,False,False,False
+737,2010,Shutter Island,0,6,False,False,False,False,False,False,False,False
+738,2009,Jennifer's Body,0,0,False,False,False,False,False,False,False,False
+739,2011,Green Lantern,0,0,False,False,False,False,False,False,False,False
+740,2009,Julie & Julia,4,17,False,False,False,False,False,False,False,False
+741,2009,District 9,8,40,False,False,False,False,False,False,False,False
+742,2012,Frankenweenie,3,11,False,False,False,False,False,False,False,False
+743,2009,Orphan,0,0,False,False,False,False,False,False,False,False
+744,2009,The White Ribbon,6,14,False,False,False,False,False,False,False,False
+745,2009,Public Enemies,0,3,False,False,False,False,False,False,False,False
+746,2009,"I Love You, Man",0,1,False,False,False,False,False,False,False,False
+747,2010,The Karate Kid,0,2,False,False,False,False,False,False,False,False
+748,2009,Zombieland,0,1,False,False,False,False,False,False,False,False
+749,2010,Biutiful,0,6,False,False,False,False,False,False,False,False
+750,2013,The Hobbit: The Desolation of Smaug,0,17,False,False,False,False,False,False,False,False
+751,2015,Demolition,0,0,False,False,False,False,False,False,False,False
+752,2008,Revanche,0,2,False,False,False,False,False,False,False,False
+753,2009,An Education,5,36,False,False,False,False,False,False,False,False
+754,2010,All Good Things,0,0,False,False,False,False,False,False,False,False
+755,2016,10 Cloverfield Lane,0,5,False,False,False,False,False,False,False,False
+756,2011,The Lincoln Lawyer,0,0,False,False,False,False,False,False,False,False
+757,2009,2012,0,2,False,False,False,False,False,False,False,False
+758,2011,Rango,11,14,False,False,False,False,False,False,False,False
+759,2009,Up in the Air,10,67,False,False,False,False,False,False,False,False
+760,2012,The Bourne Legacy,0,1,False,False,False,False,False,False,False,False
+761,2009,Law Abiding Citizen,0,0,False,False,False,False,False,False,False,False
+762,2011,Harry Potter and the Deathly Hallows: Part 2,12,26,False,False,False,False,False,False,False,False
+763,2011,The Muppets,2,11,False,False,False,False,False,False,False,False
+764,2014,Ouija,0,0,False,False,False,False,False,False,False,False
+765,2008,Gran Torino,0,5,False,False,False,False,False,False,False,False
+766,2009,The Milk of Sorrow,0,0,False,False,False,False,False,False,False,False
+767,2011,Moneyball,7,26,False,False,False,False,False,False,False,False
+768,2013,The Lone Ranger,0,0,False,False,False,False,False,False,False,False
+769,2016,Doctor Strange,2,16,False,False,False,False,False,False,False,False
+770,2010,Hereafter,0,0,False,False,False,False,False,False,False,False
+771,2012,Lawless,1,1,False,False,False,False,False,False,False,False
+772,2011,Cars 2,0,3,False,False,False,False,False,False,False,False
+773,2010,Leap Year,0,0,False,False,False,False,False,False,False,False
+774,2012,Brave,3,11,False,False,False,False,False,False,False,False
+775,2011,Limitless,0,2,False,False,False,False,False,False,False,False
+776,2010,Resident Evil: Afterlife,0,1,False,False,False,False,False,False,False,False
+777,2009,I Am Love,0,7,False,False,False,False,False,False,False,False
+778,2009,In the Loop,2,17,False,False,False,False,False,False,False,False
+779,2010,Iron Man 2,2,4,False,False,False,False,False,False,False,False
+780,2011,Mission: Impossible - Ghost Protocol,0,3,False,False,False,False,False,False,False,False
+781,2010,Outside the Law,0,0,False,False,False,False,False,False,False,False
+782,2011,Jane Eyre,2,5,False,False,False,False,False,False,False,False
+783,2009,It's Complicated,0,6,False,False,False,False,False,False,False,False
+784,2012,21 Jump Street,0,3,False,False,False,False,False,False,False,False
+785,2009,A Prophet,5,13,False,False,False,False,False,False,False,False
+786,2010,Chico & Rita,0,0,False,False,False,False,False,False,False,False
+787,2011,We Need to Talk About Kevin,4,20,False,False,False,False,False,False,False,False
+788,2013,This Is the End,1,2,False,False,False,False,False,False,False,False
+789,2010,RED,0,2,False,False,False,False,False,False,False,False
+790,2010,Kick-Ass,0,4,False,False,False,False,False,False,False,False
+791,2014,300: Rise of an Empire,0,0,False,False,False,False,False,False,False,False
+792,2011,Immortals,0,0,False,False,False,False,False,False,False,False
+793,2010,Incendies,1,4,False,False,False,False,False,False,False,False
+794,2012,The Cabin in the Woods,1,6,False,False,False,False,False,False,False,False
+795,2009,The Twilight Saga: New Moon,1,2,False,False,False,False,False,False,False,False
+796,2010,Sex and the City 2,0,1,False,False,False,False,False,False,False,False
+797,2009,Crazy Heart,13,20,False,False,True,False,False,False,False,False
+798,2014,Hercules,0,0,False,False,False,False,False,False,False,False
+799,2011,X-Men: First Class,1,5,False,False,False,False,False,False,False,False
+800,2010,The Tempest,0,1,False,False,False,False,False,False,False,False
+801,2012,Looper,3,12,False,False,False,False,False,False,False,False
+802,2012,A Royal Affair,0,3,False,False,False,False,False,False,False,False
+803,2010,Easy A,4,10,False,False,False,False,False,False,False,False
+804,2010,The Social Network,43,71,False,False,False,False,False,False,True,False
+805,2014,Teenage Mutant Ninja Turtles,0,0,False,False,False,False,False,False,False,False
+806,2011,Warrior,0,5,False,False,False,False,False,False,False,False
+807,2011,Pirates of the Caribbean: On Stranger Tides,0,5,False,False,False,False,False,False,False,False
+808,2013,Iron Man 3,2,10,False,False,False,False,False,False,False,False
+809,2011,Kung Fu Panda 2,0,7,False,False,False,False,False,False,False,False
+810,2009,The Secret in Their Eyes,0,3,False,False,False,False,False,False,False,False
+811,2011,50/50,1,6,False,False,False,False,False,False,False,False
+812,2010,Animal Kingdom,2,10,False,False,False,False,False,False,False,False
+813,2009,A Single Man,3,20,False,False,False,False,False,False,False,False
+814,2011,Rise of the Planet of the Apes,2,6,False,False,False,False,False,False,False,False
+815,2013,Gangster Squad,0,0,False,False,False,False,False,False,False,False
+816,2013,August: Osage County,2,15,False,False,False,False,False,False,False,False
+817,2010,Despicable Me,0,8,False,False,False,False,False,False,False,False
+818,2011,The Twilight Saga: Breaking Dawn - Part 1,1,2,False,False,False,False,False,False,False,False
+819,2010,The Twilight Saga: Eclipse,4,5,False,False,False,False,False,False,False,False
+820,2013,Movie 43,0,0,False,False,False,False,False,False,False,False
+821,2010,Never Let Me Go,0,1,False,False,False,False,False,False,False,False
+822,2009,Guy and Madeline on a Park Bench,0,0,False,False,False,False,False,False,False,False
+823,2010,In a Better World,1,1,False,False,False,False,False,False,False,False
+824,2015,Terminator Genisys,0,0,False,False,False,False,False,False,False,False
+825,2011,Tinker Tailor Soldier Spy,8,29,False,False,False,False,False,False,False,False
+826,2013,The Great Gatsby,6,14,False,False,False,False,False,False,False,False
+827,2012,Dredd,0,0,False,False,False,False,False,False,False,False
+828,2012,The Dark Knight Rises,3,23,False,False,False,False,False,False,False,False
+829,2013,Jack the Giant Slayer,0,0,False,False,False,False,False,False,False,False
+830,2014,If I Stay,0,1,False,False,False,False,False,False,False,False
+831,2016,Passengers,0,1,False,False,False,False,False,False,False,False
+832,2015,Black Mass,2,6,False,False,False,False,False,False,False,False
+833,2012,Cloud Atlas,3,13,False,False,False,False,False,False,False,False
+834,2010,Inception,24,60,False,False,False,False,False,False,False,False
+835,2010,Grown Ups,1,1,False,False,False,False,False,False,False,False
+836,2009,Dogtooth,0,3,False,False,False,False,False,False,False,False
+837,2010,The Other Guys,0,1,False,False,False,False,False,False,False,False
+838,2016,Suicide Squad,1,4,False,False,False,False,False,False,False,False
+839,2012,Total Recall,0,1,False,False,False,False,False,False,False,False
+840,2011,We Bought a Zoo,0,0,False,False,False,False,False,False,False,False
+841,2015,In the Heart of the Sea,0,0,False,False,False,False,False,False,False,False
+842,2012,The Hunger Games,7,13,False,False,False,False,False,False,False,False
+843,2015,Mad Max: Fury Road,44,73,False,False,False,False,False,False,False,False
+844,2013,Prisoners,1,4,False,False,False,False,False,False,False,False
+845,2012,Journey 2: The Mysterious Island,0,0,False,False,False,False,False,False,False,False
+846,2015,Straight Outta Compton,1,8,False,False,False,False,False,False,False,False
+847,2011,Transformers: Dark of the Moon,1,7,False,False,False,False,False,False,False,False
+848,2010,Winter's Bone,0,18,False,False,False,False,False,False,False,False
+849,2010,True Grit,8,53,False,False,False,False,False,False,False,False
+850,2010,Remember Me,0,0,False,False,False,False,False,False,False,False
+851,2013,Star Trek Into Darkness,0,11,False,False,False,False,False,False,False,False
+852,2011,No Strings Attached,0,0,False,False,False,False,False,False,False,False
+853,2011,In Darkness,0,1,False,False,False,False,False,False,False,False
+854,2010,Barney's Version,1,3,False,False,False,False,False,False,False,False
+855,2010,Predators,0,0,False,False,False,False,False,False,False,False
+856,2013,Hansel & Gretel: Witch Hunters,0,1,False,False,False,False,False,False,False,False
+857,2012,The Pirates! Band of Misfits,0,0,False,False,False,False,False,False,False,False
+858,2016,Deadpool,4,15,False,False,False,False,False,False,False,False
+859,2010,Another Year,1,11,False,False,False,False,False,False,False,False
+860,2011,Rio,0,2,False,False,False,False,False,False,False,False
+861,2012,Battleship,0,0,False,False,False,False,False,False,False,False
+862,2013,Under the Skin,3,17,False,False,False,False,False,False,False,False
+863,2011,Footnote,0,1,False,False,False,False,False,False,False,False
+864,2012,Prometheus,0,4,False,False,False,False,False,False,False,False
+865,2011,The Help,13,44,False,False,False,False,False,True,False,False
+866,2013,Gravity,49,72,False,True,False,False,False,False,False,False
+867,2013,The Conjuring,1,4,False,False,False,False,False,False,False,False
+868,2013,The Grandmaster,1,4,False,False,False,False,False,False,False,False
+869,2011,I Am Number Four,0,1,False,False,False,False,False,False,False,False
+870,2011,Bridesmaids,4,24,False,False,False,False,False,False,False,False
+871,2013,Oblivion,0,1,False,False,False,False,False,False,False,False
+872,2017,The Greatest Showman,1,6,False,False,False,False,False,False,False,False
+873,2011,The Change-Up,0,0,False,False,False,False,False,False,False,False
+874,2014,The Lego Movie,13,21,False,False,False,False,False,False,False,False
+875,2012,Underworld: Awakening,0,0,False,False,False,False,False,False,False,False
+876,2011,Horrible Bosses,0,1,False,False,False,False,False,False,False,False
+877,2010,The King's Speech,26,73,True,True,True,False,False,False,False,True
+878,2011,Sherlock Holmes: A Game of Shadows,0,0,False,False,False,False,False,False,False,False
+879,2011,Anonymous,0,2,False,False,False,False,False,False,False,False
+880,2014,Exodus: Gods and Kings,0,0,False,False,False,False,False,False,False,False
+881,2015,Daddy's Home,0,0,False,False,False,False,False,False,False,False
+882,2010,Beginners,9,11,False,False,False,False,True,False,False,False
+883,2013,Elysium,0,1,False,False,False,False,False,False,False,False
+884,2013,Captain Phillips,5,49,False,False,False,False,False,False,False,False
+885,2011,W.E.,2,3,False,False,False,False,False,False,False,False
+886,2013,The Mortal Instruments: City of Bones,0,0,False,False,False,False,False,False,False,False
+887,2010,127 Hours,2,44,False,False,False,False,False,False,False,False
+888,2011,Another Earth,0,0,False,False,False,False,False,False,False,False
+889,2011,A Better Life,0,1,False,False,False,False,False,False,False,False
+890,2010,Country Strong,0,2,False,False,False,False,False,False,False,False
+891,2013,Beautiful Creatures,0,1,False,False,False,False,False,False,False,False
+892,2012,The Master,15,58,False,False,False,False,False,False,False,False
+893,2011,One Day,0,0,False,False,False,False,False,False,False,False
+894,2011,Just Go with It,0,0,False,False,False,False,False,False,False,False
+895,2011,The Girl with the Dragon Tattoo,4,23,False,False,False,False,False,False,False,False
+896,2011,War Horse,1,23,False,False,False,False,False,False,False,False
+897,2011,"Crazy, Stupid, Love.",0,4,False,False,False,False,False,False,False,False
+898,2014,Maleficent,3,8,False,False,False,False,False,False,False,False
+899,2013,Warm Bodies,0,0,False,False,False,False,False,False,False,False
+900,2010,Insidious,0,0,False,False,False,False,False,False,False,False
+901,2011,Fast Five,0,2,False,False,False,False,False,False,False,False
+902,2012,This Means War,0,0,False,False,False,False,False,False,False,False
+903,2015,The Big Short,10,32,False,False,False,False,False,False,True,False
+904,2014,The Drop,0,1,False,False,False,False,False,False,False,False
+905,2011,Albert Nobbs,0,12,False,False,False,False,False,False,False,False
+906,2012,Amour,14,30,False,False,False,False,False,False,False,False
+907,2011,Midnight in Paris,6,20,False,False,False,False,False,False,False,True
+908,2012,The Vow,0,2,False,False,False,False,False,False,False,False
+909,2012,Kon-Tiki,0,1,False,False,False,False,False,False,False,False
+910,2012,Savages,0,0,False,False,False,False,False,False,False,False
+911,2011,Margin Call,1,3,False,False,False,False,False,False,False,False
+912,2015,Jupiter Ascending,0,1,False,False,False,False,False,False,False,False
+913,2016,Jackie,9,37,False,False,False,False,False,False,False,False
+914,2012,ParaNorman,2,9,False,False,False,False,False,False,False,False
+915,2014,Edge of Tomorrow,1,9,False,False,False,False,False,False,False,False
+916,2011,Friends with Benefits,0,1,False,False,False,False,False,False,False,False
+917,2012,Project X,0,0,False,False,False,False,False,False,False,False
+918,2011,In Time,0,0,False,False,False,False,False,False,False,False
+919,2012,Ted,2,8,False,False,False,False,False,False,False,False
+920,2015,The Man from U.N.C.L.E.,0,0,False,False,False,False,False,False,False,False
+921,2014,How to Train Your Dragon 2,2,12,False,False,False,False,False,False,False,False
+922,2012,The Impossible,2,12,False,False,False,False,False,False,False,False
+923,2011,Super 8,1,8,False,False,False,False,False,False,False,False
+924,2013,Kick-Ass 2,0,0,False,False,False,False,False,False,False,False
+925,2011,My Week with Marilyn,4,29,False,False,False,False,False,False,False,False
+926,2015,The Age of Adaline,0,1,False,False,False,False,False,False,False,False
+927,2011,The Artist,33,72,True,True,True,False,False,False,False,False
+928,2012,The Perks of Being a Wallflower,3,12,False,False,False,False,False,False,False,False
+929,2015,Cinderella,2,8,False,False,False,False,False,False,False,False
+930,2015,The Revenant,19,53,False,True,True,False,False,False,False,False
+931,2013,Pacific Rim,1,8,False,False,False,False,False,False,False,False
+932,2012,Mirror Mirror,1,3,False,False,False,False,False,False,False,False
+933,2013,Now You See Me,1,1,False,False,False,False,False,False,False,False
+934,2012,The Twilight Saga: Breaking Dawn - Part 2,1,3,False,False,False,False,False,False,False,False
+935,2010,A Cat in Paris,0,0,False,False,False,False,False,False,False,False
+936,2016,Trolls,1,7,False,False,False,False,False,False,False,False
+937,2014,Vampire Academy,0,0,False,False,False,False,False,False,False,False
+938,2013,Despicable Me 2,2,12,False,False,False,False,False,False,False,False
+939,2013,The Invisible Woman,0,1,False,False,False,False,False,False,False,False
+940,2013,Snowpiercer,0,10,False,False,False,False,False,False,False,False
+941,2012,Les Misérables,21,63,False,False,False,False,False,True,False,False
+942,2013,We're the Millers,0,2,False,False,False,False,False,False,False,False
+943,2013,Ender's Game,0,1,False,False,False,False,False,False,False,False
+944,2012,Snow White and the Huntsman,0,5,False,False,False,False,False,False,False,False
+945,2015,Secret in Their Eyes,0,0,False,False,False,False,False,False,False,False
+946,2012,Moonrise Kingdom,4,35,False,False,False,False,False,False,False,False
+947,2011,Like Crazy,2,3,False,False,False,False,False,False,False,False
+948,2012,This Is 40,1,4,False,False,False,False,False,False,False,False
+949,2012,The First Time,0,0,False,False,False,False,False,False,False,False
+950,2012,Wreck-It Ralph,4,12,False,False,False,False,False,False,False,False
+951,2012,Anna Karenina,8,16,False,False,False,False,False,False,False,False
+952,2014,The Maze Runner,0,1,False,False,False,False,False,False,False,False
+953,2012,Zero Dark Thirty,15,55,False,False,False,False,False,False,False,False
+954,2014,Inherent Vice,3,21,False,False,False,False,False,False,False,False
+955,2015,Southpaw,0,0,False,False,False,False,False,False,False,False
+956,2013,Her,14,43,False,False,False,False,False,False,False,True
+957,2013,American Hustle,20,67,False,False,False,False,False,False,False,False
+958,2014,Unbroken,1,7,False,False,False,False,False,False,False,False
+959,2012,Ernest & Celestine,1,2,False,False,False,False,False,False,False,False
+960,2012,The Place Beyond the Pines,0,0,False,False,False,False,False,False,False,False
+961,2012,War Witch,0,0,False,False,False,False,False,False,False,False
+962,2013,Nebraska,3,43,False,False,False,False,False,False,False,False
+963,2011,Bullhead,0,0,False,False,False,False,False,False,False,False
+964,2011,A Separation,11,17,False,False,False,False,False,False,False,False
+965,2014,Divergent,2,3,False,False,False,False,False,False,False,False
+966,2014,Captain America: The Winter Soldier,0,7,False,False,False,False,False,False,False,False
+967,2012,Django Unchained,7,27,False,False,False,False,True,False,False,True
+968,2013,Percy Jackson: Sea of Monsters,0,1,False,False,False,False,False,False,False,False
+969,2012,End of Watch,0,1,False,False,False,False,False,False,False,False
+970,2012,Resident Evil: Retribution,0,0,False,False,False,False,False,False,False,False
+971,2017,Blade Runner 2049,11,31,False,False,False,False,False,False,False,False
+972,2016,Deepwater Horizon,0,2,False,False,False,False,False,False,False,False
+973,2014,Song of the Sea,0,0,False,False,False,False,False,False,False,False
+974,2012,The Sessions,1,12,False,False,False,False,False,False,False,False
+975,2014,The Amazing Spider-Man 2,0,2,False,False,False,False,False,False,False,False
+976,2014,The Judge,1,4,False,False,False,False,False,False,False,False
+977,2014,X-Men: Days of Future Past,2,8,False,False,False,False,False,False,False,False
+978,2015,Spotlight,19,51,True,False,False,False,False,False,False,True
+979,2013,Fast & Furious 6,0,3,False,False,False,False,False,False,False,False
+980,2012,Flight,0,7,False,False,False,False,False,False,False,False
+981,2012,Magic Mike,1,3,False,False,False,False,False,False,False,False
+982,2012,Mud,0,4,False,False,False,False,False,False,False,False
+983,2016,Miss Peregrine's Home for Peculiar Children,0,1,False,False,False,False,False,False,False,False
+984,2013,The Hunger Games: Catching Fire,3,11,False,False,False,False,False,False,False,False
+985,2014,The Hunger Games: Mockingjay - Part 1,0,5,False,False,False,False,False,False,False,False
+986,2015,The Hunger Games: Mockingjay - Part 2,0,2,False,False,False,False,False,False,False,False
+987,2014,Sex Tape,0,0,False,False,False,False,False,False,False,False
+988,2013,Rush,2,18,False,False,False,False,False,False,False,False
+989,2013,Begin Again,0,4,False,False,False,False,False,False,False,False
+990,2013,Thor: The Dark World,0,1,False,False,False,False,False,False,False,False
+991,2012,Pitch Perfect,0,4,False,False,False,False,False,False,False,False
+992,2013,Alone Yet Not Alone,0,0,False,False,False,False,False,False,False,False
+993,2011,Monsieur Lazhar,0,0,False,False,False,False,False,False,False,False
+994,2013,The Wind Rises,3,13,False,False,False,False,False,False,False,False
+995,2014,Guardians of the Galaxy,12,23,False,False,False,False,False,False,False,False
+996,2013,All Is Lost,2,6,False,False,False,False,False,False,False,False
+997,2012,The Broken Circle Breakdown,0,1,False,False,False,False,False,False,False,False
+998,2013,12 Years a Slave,35,100,True,False,False,False,False,True,True,False
+999,2016,The Great Wall,0,0,False,False,False,False,False,False,False,False
+1000,2013,Inside Llewyn Davis,6,38,False,False,False,False,False,False,False,False
+1001,2015,Point Break,0,0,False,False,False,False,False,False,False,False
+1002,2012,False,0,0,False,False,False,False,False,False,False,False
+1003,2015,Steve Jobs,7,33,False,False,False,False,False,False,False,False
+1004,2014,The Imitation Game,6,45,False,False,False,False,False,False,True,False
+1005,2016,Assassin's Creed,0,0,False,False,False,False,False,False,False,False
+1006,2015,Inside Out,14,34,False,False,False,False,False,False,False,False
+1007,2012,Spring Breakers,1,3,False,False,False,False,False,False,False,False
+1008,2014,Dawn of the Planet of the Apes,2,8,False,False,False,False,False,False,False,False
+1009,2012,The Hunt,0,7,False,False,False,False,False,False,False,False
+1010,2014,Transformers: Age of Extinction,1,1,False,False,False,False,False,False,False,False
+1011,2013,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,0,0,False,False,False,False,False,False,False,False
+1012,2016,Hacksaw Ridge,7,32,False,False,False,False,False,False,False,False
+1013,2012,Beasts of the Southern Wild,8,25,False,False,False,False,False,False,False,False
+1014,2013,Saving Mr. Banks,0,22,False,False,False,False,False,False,False,False
+1015,2016,The Accountant,0,0,False,False,False,False,False,False,False,False
+1016,2014,American Sniper,5,18,False,False,False,False,False,False,False,False
+1017,2014,Into the Woods,1,22,False,False,False,False,False,False,False,False
+1018,2013,The Purge,0,0,False,False,False,False,False,False,False,False
+1019,2013,Grown Ups 2,0,1,False,False,False,False,False,False,False,False
+1020,2014,The Other Woman,0,1,False,False,False,False,False,False,False,False
+1021,2013,Before Midnight,2,12,False,False,False,False,False,False,False,False
+1022,2014,Big Hero 6,0,10,False,False,False,False,False,False,False,False
+1023,2014,Gone Girl,14,39,False,False,False,False,False,False,False,False
+1024,2014,The Grand Budapest Hotel,25,73,False,False,False,False,False,False,False,False
+1025,2015,Love the Coopers,0,0,False,False,False,False,False,False,False,False
+1026,2013,Frozen,12,22,False,False,False,False,False,False,False,False
+1027,2013,Olympus Has Fallen,0,0,False,False,False,False,False,False,False,False
+1028,2013,Mandela: Long Walk to Freedom,1,7,False,False,False,False,False,False,False,False
+1029,2014,Wild,1,12,False,False,False,False,False,False,False,False
+1030,2014,The Hobbit: The Battle of the Five Armies,0,12,False,False,False,False,False,False,False,False
+1031,2015,Fifty Shades of Grey,0,3,False,False,False,False,False,False,False,False
+1032,2014,The Expendables 3,0,0,False,False,False,False,False,False,False,False
+1033,2013,Blue Jasmine,12,27,False,False,False,True,False,False,False,False
+1034,2013,White House Down,0,1,False,False,False,False,False,False,False,False
+1035,2013,The Great Beauty,2,11,False,False,False,False,False,False,False,False
+1036,2016,Live by Night,0,1,False,False,False,False,False,False,False,False
+1037,2015,The Intern,0,1,False,False,False,False,False,False,False,False
+1038,2015,Spectre,1,7,False,False,False,False,False,False,False,False
+1039,2017,Coco,14,19,False,False,False,False,False,False,False,False
+1040,2015,Brooklyn,4,37,False,False,False,False,False,False,False,False
+1041,2015,Mission: Impossible - Rogue Nation,0,8,False,False,False,False,False,False,False,False
+1042,2015,Focus,0,0,False,False,False,False,False,False,False,False
+1043,2016,Keeping Up with the Joneses,0,0,False,False,False,False,False,False,False,False
+1044,2015,Avengers: Age of Ultron,0,1,False,False,False,False,False,False,False,False
+1045,2017,Mudbound,3,19,False,False,False,False,False,False,False,False
+1046,2015,The Invitation,0,0,False,False,False,False,False,False,False,False
+1047,2015,Anomalisa,3,16,False,False,False,False,False,False,False,False
+1048,2014,The November Man,0,0,False,False,False,False,False,False,False,False
+1049,2015,Carol,12,69,False,False,False,False,False,False,False,False
+1050,2013,The Green Inferno,0,0,False,False,False,False,False,False,False,False
+1051,2013,The Family,0,0,False,False,False,False,False,False,False,False
+1052,2016,The Magnificent Seven,0,0,False,False,False,False,False,False,False,False
+1053,2013,Philomena,2,21,False,False,False,False,False,False,False,False
+1054,2015,Joy,1,9,False,False,False,False,False,False,False,False
+1055,2014,Mr. Turner,2,20,False,False,False,False,False,False,False,False
+1056,2015,Star Wars: The Force Awakens,3,23,False,False,False,False,False,False,False,False
+1057,2015,Burnt,0,0,False,False,False,False,False,False,False,False
+1058,2017,Star Wars: The Last Jedi,0,11,False,False,False,False,False,False,False,False
+1059,2016,Arrival,6,59,False,False,False,False,False,False,False,False
+1060,2017,Wonder,0,6,False,False,False,False,False,False,False,False
+1061,2016,The Light Between Oceans,0,0,False,False,False,False,False,False,False,False
+1062,2014,A Million Ways to Die in the West,0,0,False,False,False,False,False,False,False,False
+1063,2014,Birdman or (The Unexpected Virtue of Ignorance),37,87,True,True,False,False,False,False,False,True
+1064,2013,The Tale of the Princess Kaguya,2,8,False,False,False,False,False,False,False,False
+1065,2016,Hell or High Water,1,30,False,False,False,False,False,False,False,False
+1066,2014,Whiplash,13,34,False,False,False,False,True,False,False,False
+1067,2014,The Fault in Our Stars,2,4,False,False,False,False,False,False,False,False
+1068,2016,Star Trek Beyond,0,2,False,False,False,False,False,False,False,False
+1069,2016,Fences,7,27,False,False,False,False,False,True,False,False
+1070,2013,Locke,1,2,False,False,False,False,False,False,False,False
+1071,2016,The Secret Life of Pets,0,3,False,False,False,False,False,False,False,False
+1072,2014,Fury,1,5,False,False,False,False,False,False,False,False
+1073,2013,Ida,4,17,False,False,False,False,False,False,False,False
+1074,2015,Everest,0,1,False,False,False,False,False,False,False,False
+1075,2014,"Two Days, One Night",0,0,False,False,False,False,False,False,False,False
+1076,2017,Beauty and the Beast,2,10,False,False,False,False,False,False,False,False
+1077,2014,The Interview,0,0,False,False,False,False,False,False,False,False
+1078,2014,Kingsman: The Secret Service,0,2,False,False,False,False,False,False,False,False
+1079,2014,Leviathan,2,7,False,False,False,False,False,False,False,False
+1080,2015,Furious 7,7,11,False,False,False,False,False,False,False,False
+1081,2015,Pitch Perfect 2,1,2,False,False,False,False,False,False,False,False
+1082,2013,Omar,0,0,False,False,False,False,False,False,False,False
+1083,2014,Nightcrawler,5,37,False,False,False,False,False,False,False,False
+1084,2015,Shaun the Sheep Movie,0,11,False,False,False,False,False,False,False,False
+1085,2014,Chef,0,1,False,False,False,False,False,False,False,False
+1086,2014,John Wick,0,0,False,False,False,False,False,False,False,False
+1087,2014,A Most Violent Year,1,9,False,False,False,False,False,False,False,False
+1088,2016,Zootopia,5,16,False,False,False,False,False,False,False,False
+1089,2016,Batman v Superman: Dawn of Justice,0,2,False,False,False,False,False,False,False,False
+1090,2014,The Theory of Everything,7,37,False,False,True,False,False,False,False,False
+1091,2013,Tangerines,0,1,False,False,False,False,False,False,False,False
+1092,2014,Wild Tales,1,2,False,False,False,False,False,False,False,False
+1093,2016,The Jungle Book,4,12,False,False,False,False,False,False,False,False
+1094,2016,Inferno,0,0,False,False,False,False,False,False,False,False
+1095,2013,Bad Grandpa,0,0,False,False,False,False,False,False,False,False
+1096,2015,Hardcore Henry,0,0,False,False,False,False,False,False,False,False
+1097,2015,Creed,4,12,False,False,False,False,False,False,False,False
+1098,2015,Spy,1,7,False,False,False,False,False,False,False,False
+1099,2016,Monster Trucks,0,0,False,False,False,False,False,False,False,False
+1100,2014,Beyond the Lights,0,0,False,False,False,False,False,False,False,False
+1101,2015,Room,13,35,False,False,False,True,False,False,False,False
+1102,2014,Theeb,1,2,False,False,False,False,False,False,False,False
+1103,2013,Boy and the World,0,0,False,False,False,False,False,False,False,False
+1104,2016,Fantastic Beasts and Where to Find Them,2,13,False,False,False,False,False,False,False,False
+1105,2015,Trumbo,0,13,False,False,False,False,False,False,False,False
+1106,2014,It Follows,0,3,False,False,False,False,False,False,False,False
+1107,2016,Sully,1,7,False,False,False,False,False,False,False,False
+1108,2016,The Autopsy of Jane Doe,0,0,False,False,False,False,False,False,False,False
+1109,2015,Youth,1,7,False,False,False,False,False,False,False,False
+1110,2017,Logan,1,15,False,False,False,False,False,False,False,False
+1111,2014,Still Alice,7,9,False,False,False,True,False,False,False,False
+1112,2016,Jack Reacher: Never Go Back,0,0,False,False,False,False,False,False,False,False
+1113,2015,Sicario,1,32,False,False,False,False,False,False,False,False
+1114,2014,When Marnie Was There,0,1,False,False,False,False,False,False,False,False
+1115,2014,Timbuktu,2,3,False,False,False,False,False,False,False,False
+1116,2016,A Monster Calls,0,7,False,False,False,False,False,False,False,False
+1117,2014,What We Do in the Shadows,2,2,False,False,False,False,False,False,False,False
+1118,2017,War for the Planet of the Apes,4,8,False,False,False,False,False,False,False,False
+1119,2015,The Hateful Eight,8,25,False,False,False,False,False,False,False,False
+1120,2016,The Lobster,2,13,False,False,False,False,False,False,False,False
+1121,2016,Sing,0,3,False,False,False,False,False,False,False,False
+1122,2016,Captain America: Civil War,0,6,False,False,False,False,False,False,False,False
+1123,2017,The Disaster Artist,3,17,False,False,False,False,False,False,False,False
+1124,2016,Moana,0,11,False,False,False,False,False,False,False,False
+1125,2015,45 Years,5,11,False,False,False,False,False,False,False,False
+1126,2016,Captain Fantastic,0,6,False,False,False,False,False,False,False,False
+1127,2015,The Visit,0,1,False,False,False,False,False,False,False,False
+1128,2015,Legend,1,2,False,False,False,False,False,False,False,False
+1129,2015,Knock Knock,0,0,False,False,False,False,False,False,False,False
+1130,2016,The Girl on the Train,1,4,False,False,False,False,False,False,False,False
+1131,2016,Allied,0,2,False,False,False,False,False,False,False,False
+1132,2015,The Martian,7,47,False,False,False,False,False,False,False,False
+1133,2015,Bridge of Spies,6,33,False,False,False,False,True,False,False,False
+1134,2016,Elle,7,15,False,False,False,False,False,False,False,False
+1135,2016,Underworld: Blood Wars,0,0,False,False,False,False,False,False,False,False
+1136,2017,Kong: Skull Island,0,0,False,False,False,False,False,False,False,False
+1137,2016,Lion,5,30,False,False,False,False,False,False,False,False
+1138,2016,Rogue One: A Star Wars Story,0,6,False,False,False,False,False,False,False,False
+1139,2016,La La Land,40,89,False,True,False,True,False,False,False,False
+1140,2015,Son of Saul,9,16,False,False,False,False,False,False,False,False
+1141,2015,A War,0,0,False,False,False,False,False,False,False,False
+1142,2015,Land of Mine,0,0,False,False,False,False,False,False,False,False
+1143,2017,Baby Driver,3,11,False,False,False,False,False,False,False,False
+1144,2017,Guardians of the Galaxy Vol. 2,1,2,False,False,False,False,False,False,False,False
+1145,2015,Mustang,0,7,False,False,False,False,False,False,False,False
+1146,2016,Manchester by the Sea,18,71,False,False,True,False,False,False,False,True
+1147,2015,Green Room,0,0,False,False,False,False,False,False,False,False
+1148,2015,A Man Called Ove,0,0,False,False,False,False,False,False,False,False
+1149,2016,Florence Foster Jenkins,3,17,False,False,False,False,False,False,False,False
+1150,2016,13 Hours,0,0,False,False,False,False,False,False,False,False
+1151,2017,Molly's Game,0,12,False,False,False,False,False,False,False,False
+1152,2015,Tanna,0,0,False,False,False,False,False,False,False,False
+1153,2015,The Witch,2,7,False,False,False,False,False,False,False,False
+1154,2015,Embrace of the Serpent,0,0,False,False,False,False,False,False,False,False
+1155,2016,Kubo and the Two Strings,3,10,False,False,False,False,False,False,False,False
+1156,2016,20th Century Women,0,10,False,False,False,False,False,False,False,False
+1157,2016,Why Him?,0,0,False,False,False,False,False,False,False,False
+1158,2016,The Girl with All the Gifts,1,4,False,False,False,False,False,False,False,False
+1159,2016,Nocturnal Animals,2,40,False,False,False,False,False,False,False,False
+1160,2017,Darkest Hour,10,24,False,False,False,False,False,False,False,False
+1161,2016,Patriots Day,0,0,False,False,False,False,False,False,False,False
+1162,2016,Loving,0,14,False,False,False,False,False,False,False,False
+1163,2016,Collateral Beauty,1,2,False,False,False,False,False,False,False,False
+1164,2016,Hidden Figures,3,23,False,False,False,False,False,False,False,False
+1165,2017,Lady Bird,11,51,False,False,False,False,False,False,False,False
+1166,2016,Split,0,1,False,False,False,False,False,False,False,False
+1167,2016,Moonlight,24,79,True,False,False,False,True,False,True,False
+1168,2017,Dunkirk,9,43,False,False,False,False,False,False,False,False
+1169,2017,"Three Billboards Outside Ebbing, Missouri",22,57,False,False,False,False,False,False,False,False
+1170,2017,Get Out,17,46,False,False,False,False,False,False,False,False
+1171,2016,Jim: The James Foley Story,0,0,False,False,False,False,False,False,False,False
+1172,2017,All the Money in the World,0,4,False,False,False,False,False,False,False,False
+1173,2017,Marshall,1,2,False,False,False,False,False,False,False,False
+1174,2017,The Big Sick,3,21,False,False,False,False,False,False,False,False
+1175,2017,"I, Tonya",10,36,False,False,False,False,False,False,False,False
+1176,2017,The Shape of Water,22,81,False,False,False,False,False,False,False,False
+1177,2017,The Florida Project,8,23,False,False,False,False,False,False,False,False
+1178,2017,Call Me by Your Name,15,55,False,False,False,False,False,False,False,False
+1179,2017,Phantom Thread,9,30,False,False,False,False,False,False,False,False
+1180,2017,Victoria & Abdul,1,5,False,False,False,False,False,False,False,False
+1181,2017,"Roman J. Israel, Esq.",0,2,False,False,False,False,False,False,False,False
+1182,2017,The Post,0,22,False,False,False,False,False,False,False,False
