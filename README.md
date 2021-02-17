@@ -7,6 +7,8 @@ For our ETL-Project (Extract, Transform, and Load), we chose to analyze various 
 4.	Oscar Data – Data from Oscars Academy including movie title, certificate (parental rating), duration, genre, Oscar rating, number of votes, count of user review, count of critic review, and if the movie was a cartoon. We selected this database to corroborate with the Oscar wins database, gathering more datapoints on the voting process. The Boolean field for cartoon could also be used to perform additional analysis.
 5.	Wiki Data – Data from Wikipedia including movie title, year, country, genre, and Wikipedia page. We selected this dataset as the Wikipedia page links could be utilized to scrape and pull-down additional data points.
 
+![](https://github.com/jgriffin1314/ETL-Project/blob/main/Images/diagram.png)
+
 For the "extract" aspect of our analysis, our data sources were CSV files predominantly from Kaggle. We were fortunate enough to have many options on movie-related data.
 
 For the "transform" aspect of our analysis, we first downloaded the datasets into Pandas and then cleaned the data. This included checking variable types, checking for NaNs, and checking for consistency. As many of our datasets contained many unnecessary fields, we deleted many columns for the sake of simplicity. For the sake of our analysis and filtering, we opted to filter for only movies that were produced in the U.S between 2000 and 2017.
