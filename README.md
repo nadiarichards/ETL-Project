@@ -13,6 +13,8 @@ For the "extract" aspect of our analysis, our data sources were CSV files predom
 
 For the "transform" aspect of our analysis, we first downloaded the datasets into Pandas and then cleaned the data. This included checking variable types, checking for NaNs, and checking for consistency. As many of our datasets contained many unnecessary fields, we deleted many columns for the sake of simplicity. For the sake of our analysis and filtering, we opted to filter for only movies that were produced in the U.S between 2000 and 2017.
 
+[For the transform aspect, please see our jupyter notebooks.](https://github.com/jgriffin1314/ETL-Project/tree/main/Nadia)
+
 For the "load" aspect of our analysis, we loaded our various datasets into SQL / Postgres. We also found it useful to create the tables first in postgres, stating the variable type, and then working to push the  dataframe to Postgres. This helped us further clean and assess our data. Once our data was in Postgres, we performed a join, as if we were to do further analysis, we would likely have done many joins on the movie title key.
 
 ![](https://github.com/jgriffin1314/ETL-Project/blob/main/Images/final_join_sql.png)
