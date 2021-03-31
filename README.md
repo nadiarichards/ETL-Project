@@ -1,5 +1,12 @@
 # ETL-Project
 
+### Languages and Technologies used:
+Python (Pandas, Numpy libraries)
+Jupyter Notebook
+SQL Alchemy for connecting to PostreSQL
+PG Admin
+PostreSQL
+
 For our ETL-Project (Extract, Transform, and Load), we chose to analyze various datasets about movies. Luckily, much data is available on the topic, and we ended up choosing 5 datasets in total. These include:
 1.	IMBD Data – Data from an IMBD dataset that includes fields including movie title, year, genre, duration (length), director, description, average vote, number of reviews from users, and number of reviews from critics. We selected this dataset as the review columns could be interesting in analysis.
 2.	Netflix Data – Data from a Netflix dataset that includes, movie title, director, actors, year, rating, duration (length), description. We chose this data set for the details including the description, which could be valuable for a scraping analysis. 
@@ -13,7 +20,7 @@ For the "extract" aspect of our analysis, our data sources were CSV files predom
 
 For the "transform" aspect of our analysis, we first downloaded the datasets into Pandas and then cleaned the data. This included checking variable types, checking for NaNs, and checking for consistency. As many of our datasets contained many unnecessary fields, we deleted many columns for the sake of simplicity. For the sake of our analysis and filtering, we opted to filter for only movies that were produced in the U.S between 2000 and 2017.
 
-[For the transform aspect, please see our jupyter notebooks.](https://github.com/jgriffin1314/ETL-Project/blob/main/Nadia/Nadias_ETL_notebook.ipynb)
+[For the transform aspect, please see our Jupyter Notebook.](https://github.com/jgriffin1314/ETL-Project/blob/main/Nadia/Nadias_ETL_notebook.ipynb)
 
 For the "load" aspect of our analysis, we loaded our various datasets into SQL / Postgres. We also found it useful to create the tables first in postgres, stating the variable type, and then working to push the  dataframe to Postgres. This helped us further clean and assess our data. Once our data was in Postgres, we performed a join, as if we were to do further analysis, we would likely have done many joins on the movie title key.
 
