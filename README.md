@@ -1,6 +1,6 @@
 # ETL-Project
 
-### Languages and Technologies used:
+### Tools and Technologies used:
 * Python (Pandas, Numpy libraries)
 * Jupyter Notebook
 * SQL Alchemy for connecting to PostreSQL
