@@ -5,7 +5,7 @@ Python (Pandas, Numpy libraries)
 Jupyter Notebook
 SQL Alchemy for connecting to PostreSQL
 PG Admin
-PostreSQL
+PostreSQL.
 
 For our ETL-Project (Extract, Transform, and Load), we chose to analyze various datasets about movies. Luckily, much data is available on the topic, and we ended up choosing 5 datasets in total. These include:
 1.	IMBD Data – Data from an IMBD dataset that includes fields including movie title, year, genre, duration (length), director, description, average vote, number of reviews from users, and number of reviews from critics. We selected this dataset as the review columns could be interesting in analysis.
